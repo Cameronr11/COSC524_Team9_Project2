@@ -5,7 +5,8 @@
 # environment in Jupyter. If you prefer to create one do so as follows:
 # python -m venv env_name_here, then run the script.
 
+pip install -r requirements.txt
+
 python -m spacy download en_core_web_sm
 
-pip install -r requirements.txt
 
