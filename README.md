@@ -1,4 +1,4 @@
-# COSC524 Team_9
+# COSC524 Team 9
 
 # Project 2: Fine-Tuning BERT
 
