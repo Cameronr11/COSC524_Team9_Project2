@@ -1,0 +1,478 @@
+[
+    {
+        "context": "Dr. John Watson, recently returned from Afghanistan, is introduced to Sherlock Holmes by Stamford. They decide to share an apartment at 221B Baker Street. Holmes demonstrates his deductive skills and assists the police in solving the murder of Enoch Drebber. The word 'RACHE' is written in blood at the crime scene. Jefferson Hope is later revealed as the murderer, seeking revenge for past wrongs.",
+        "question": "Who introduced Watson to Holmes?",
+        "answer": "Stamford",
+        "start_position": 89,
+        "end_position": 96
+    },
+    {
+        "context": "Dr. John Watson, recently returned from Afghanistan, is introduced to Sherlock Holmes by Stamford. They decide to share an apartment at 221B Baker Street. Holmes demonstrates his deductive skills and assists the police in solving the murder of Enoch Drebber. The word 'RACHE' is written in blood at the crime scene. Jefferson Hope is later revealed as the murderer, seeking revenge for past wrongs.",
+        "question": "Where did Watson and Holmes live?",
+        "answer": "221B Baker Street",
+        "start_position": 136,
+        "end_position": 152
+    },
+    {
+        "context": "Dr. John Watson, recently returned from Afghanistan, is introduced to Sherlock Holmes by Stamford. They decide to share an apartment at 221B Baker Street. Holmes demonstrates his deductive skills and assists the police in solving the murder of Enoch Drebber. The word 'RACHE' is written in blood at the crime scene. Jefferson Hope is later revealed as the murderer, seeking revenge for past wrongs.",
+        "question": "What word was written in blood at the crime scene?",
+        "answer": "RACHE",
+        "start_position": 269,
+        "end_position": 273
+    },
+    {
+        "context": "Dr. John Watson, recently returned from Afghanistan, is introduced to Sherlock Holmes by Stamford. They decide to share an apartment at 221B Baker Street. Holmes demonstrates his deductive skills and assists the police in solving the murder of Enoch Drebber. The word 'RACHE' is written in blood at the crime scene. Jefferson Hope is later revealed as the murderer, seeking revenge for past wrongs.",
+        "question": "Who was revealed as the murderer?",
+        "answer": "Jefferson Hope",
+        "start_position": 316,
+        "end_position": 329
+    },
+    {
+        "context": "Sherlock Holmes has remarkable skills in observation and deduction. He surprises Watson by identifying that Watson had served in Afghanistan simply by observing his appearance and behavior. Holmes also has an eccentric personality, often engaging in chemical experiments and playing the violin.",
+        "question": "How did Holmes deduce that Watson had served in Afghanistan?",
+        "answer": "by observing his appearance and behavior",
+        "start_position": 148,
+        "end_position": 187
+    },
+    {
+        "context": "Sherlock Holmes has remarkable skills in observation and deduction. He surprises Watson by identifying that Watson had served in Afghanistan simply by observing his appearance and behavior. Holmes also has an eccentric personality, often engaging in chemical experiments and playing the violin.",
+        "question": "What instrument does Holmes play?",
+        "answer": "violin",
+        "start_position": 287,
+        "end_position": 292
+    },
+    {
+        "context": "Holmes received a case involving the murder of Enoch J. Drebber at Lauriston Gardens. The scene included a mysterious word, 'RACHE,' written in blood on the wall. Holmes deduced the murder was motivated by revenge.",
+        "question": "What was the location of the murder scene?",
+        "answer": "Lauriston Gardens",
+        "start_position": 67,
+        "end_position": 83
+    },
+    {
+        "context": "Holmes received a case involving the murder of Enoch J. Drebber at Lauriston Gardens. The scene included a mysterious word, 'RACHE,' written in blood on the wall. Holmes deduced the murder was motivated by revenge.",
+        "question": "What did Holmes deduce was the motive for the murder?",
+        "answer": "revenge",
+        "start_position": 206,
+        "end_position": 212
+    },
+    {
+        "context": "Holmes explained his investigative methods to Watson, emphasizing the importance of observation and deduction. He stated that the human brain is like an attic and must be furnished only with useful knowledge to avoid clutter.",
+        "question": "How did Holmes describe the human brain?",
+        "answer": "like an attic",
+        "start_position": 145,
+        "end_position": 157
+    },
+    {
+        "context": "Holmes explained his investigative methods to Watson, emphasizing the importance of observation and deduction. He stated that the human brain is like an attic and must be furnished only with useful knowledge to avoid clutter.",
+        "question": "What did Holmes believe about acquiring knowledge irrelevant to his work?",
+        "answer": "must be furnished only with useful knowledge to avoid clutter.",
+        "start_position": 163,
+        "end_position": 224
+    },
+    {
+        "context": "Holmes' investigation of Lauriston Gardens revealed a complex trail of evidence, including the size of the footprints, a woman's wedding ring, and the type of cigar ash left at the scene.",
+        "question": "What object found at the scene suggested a woman might be involved?",
+        "answer": "a woman's wedding ring",
+        "start_position": 119,
+        "end_position": 140
+    },
+    {
+        "context": "Holmes' investigation of Lauriston Gardens revealed a complex trail of evidence, including the size of the footprints, a woman's wedding ring, and the type of cigar ash left at the scene.",
+        "question": "What clue did the cigar ash provide?",
+        "answer": "the type of cigar ash",
+        "start_position": 147,
+        "end_position": 167
+    },
+    {
+        "context": "Dr. John Watson, after sustaining a jezail bullet wound at the battle of Maiwand and suffering from enteric fever, was sent back to England for recovery. He spent time in London, seeking affordable accommodations while reflecting on his time in the Afghan war.",
+        "question": "What injury did Watson sustain in Afghanistan?",
+        "answer": "a jezail bullet wound",
+        "start_position": 34,
+        "end_position": 54
+    },
+    {
+        "context": "Dr. John Watson, after sustaining a jezail bullet wound at the battle of Maiwand and suffering from enteric fever, was sent back to England for recovery. He spent time in London, seeking affordable accommodations while reflecting on his time in the Afghan war.",
+        "question": "Why was Watson sent back to England?",
+        "answer": "suffering from enteric fever",
+        "start_position": 85,
+        "end_position": 112
+    },
+    {
+        "context": "Sherlock Holmes deduced that Watson had served in Afghanistan by noticing his tan skin, medical knowledge, and military posture. Holmes explains his method as a series of observations and logical connections.",
+        "question": "What specific detail led Holmes to conclude Watson served in a tropical climate?",
+        "answer": "his tan skin",
+        "start_position": 74,
+        "end_position": 85
+    },
+    {
+        "context": "Holmes discovered a reagent that reacts only with hemoglobin, making it a reliable test for blood stains. He demonstrated the test by adding chemicals to a solution containing a minute amount of blood, resulting in a clear reaction.",
+        "question": "What did Holmes' reagent test for?",
+        "answer": "hemoglobin",
+        "start_position": 50,
+        "end_position": 59
+    },
+    {
+        "context": "Holmes discovered a reagent that reacts only with hemoglobin, making it a reliable test for blood stains. He demonstrated the test by adding chemicals to a solution containing a minute amount of blood, resulting in a clear reaction.",
+        "question": "Why is Holmes' test significant in forensic science?",
+        "answer": "making it a reliable test for blood stains",
+        "start_position": 62,
+        "end_position": 103
+    },
+    {
+        "context": "At Lauriston Gardens, the body of Enoch Drebber was found with no visible wounds. Blood marks surrounded the scene, and the word 'RACHE' was scrawled in blood on the wall. Holmes deduced the word was a clue left by the murderer.",
+        "question": "What word was written on the wall at the crime scene?",
+        "answer": "RACHE",
+        "start_position": 130,
+        "end_position": 134
+    },
+    {
+        "context": "At Lauriston Gardens, the body of Enoch Drebber was found with no visible wounds. Blood marks surrounded the scene, and the word 'RACHE' was scrawled in blood on the wall. Holmes deduced the word was a clue left by the murderer.",
+        "question": "What did Holmes deduce about the word 'RACHE'?",
+        "answer": "the word was a clue left by the murderer",
+        "start_position": 187,
+        "end_position": 226
+    },
+    {
+        "context": "Watson noted Holmes' exceptional knowledge in chemistry and law, while observing his ignorance in astronomy, politics, and philosophy. Holmes emphasized that his focus was solely on practical knowledge.",
+        "question": "Which area of knowledge is Holmes profoundly skilled in?",
+        "answer": "chemistry",
+        "start_position": 46,
+        "end_position": 54
+    },
+    {
+        "context": "Watson noted Holmes' exceptional knowledge in chemistry and law, while observing his ignorance in astronomy, politics, and philosophy. Holmes emphasized that his focus was solely on practical knowledge.",
+        "question": "What is Holmes\u2019 view on acquiring non-practical knowledge?",
+        "answer": "his focus was solely on practical knowledge",
+        "start_position": 158,
+        "end_position": 200
+    },
+    {
+        "context": "Sherlock Holmes emphasized the importance of avoiding premature conclusions and focused on gathering evidence before forming theories. He explained this principle while investigating the Lauriston Gardens murder case.",
+        "question": "What principle did Holmes emphasize during the investigation?",
+        "answer": "avoiding premature conclusions",
+        "start_position": 45,
+        "end_position": 74
+    },
+    {
+        "context": "Sherlock Holmes emphasized the importance of avoiding premature conclusions and focused on gathering evidence before forming theories. He explained this principle while investigating the Lauriston Gardens murder case.",
+        "question": "Why does Holmes prefer gathering evidence before forming theories?",
+        "answer": "avoiding premature conclusions",
+        "start_position": 45,
+        "end_position": 74
+    },
+    {
+        "context": "Holmes deduced from the trail of evidence at the scene that the murderer was likely left-handed, based on the direction of the blood spatter and positioning of objects.",
+        "question": "What led Holmes to believe the murderer was left-handed?",
+        "answer": "direction of the blood spatter",
+        "start_position": 110,
+        "end_position": 139
+    },
+    {
+        "context": "In the year 1878, Dr. John Watson completed his studies to become a Doctor of Medicine at the University of London. Shortly after, he was attached to the Fifth Northumberland Fusiliers, but before he could join, the second Afghan war broke out.",
+        "question": "What year did Watson complete his studies?",
+        "answer": "1878",
+        "start_position": 12,
+        "end_position": 15
+    },
+    {
+        "context": "In the year 1878, Dr. John Watson completed his studies to become a Doctor of Medicine at the University of London. Shortly after, he was attached to the Fifth Northumberland Fusiliers, but before he could join, the second Afghan war broke out.",
+        "question": "What regiment was Watson attached to?",
+        "answer": "Fifth Northumberland Fusiliers",
+        "start_position": 154,
+        "end_position": 183
+    },
+    {
+        "context": "At the Criterion Bar in London, Watson unexpectedly met Stamford, an old acquaintance. Stamford introduced Watson to Sherlock Holmes, who was searching for someone to share lodgings at 221B Baker Street.",
+        "question": "Where did Watson meet Stamford?",
+        "answer": "Criterion Bar",
+        "start_position": 7,
+        "end_position": 19
+    },
+    {
+        "context": "At the Criterion Bar in London, Watson unexpectedly met Stamford, an old acquaintance. Stamford introduced Watson to Sherlock Holmes, who was searching for someone to share lodgings at 221B Baker Street.",
+        "question": "Who introduced Watson to Sherlock Holmes?",
+        "answer": "Stamford",
+        "start_position": 56,
+        "end_position": 63
+    },
+    {
+        "context": "At the Criterion Bar in London, Watson unexpectedly met Stamford, an old acquaintance. Stamford introduced Watson to Sherlock Holmes, who was searching for someone to share lodgings at 221B Baker Street.",
+        "question": "What address did Holmes propose for shared lodgings?",
+        "answer": "221B Baker Street",
+        "start_position": 185,
+        "end_position": 201
+    },
+    {
+        "context": "Sherlock Holmes demonstrated his deductive abilities when he first met Watson by deducing that Watson had recently returned from Afghanistan. Holmes explained that he noticed Watson's tan skin, military bearing, and signs of illness.",
+        "question": "How did Holmes deduce Watson's return from Afghanistan?",
+        "answer": "Watson's tan skin, military bearing, and signs of illness",
+        "start_position": 175,
+        "end_position": 231
+    },
+    {
+        "context": "Sherlock Holmes demonstrated his deductive abilities when he first met Watson by deducing that Watson had recently returned from Afghanistan. Holmes explained that he noticed Watson's tan skin, military bearing, and signs of illness.",
+        "question": "What did Holmes deduce about Watson during their first meeting?",
+        "answer": "that Watson had recently returned from Afghanistan",
+        "start_position": 90,
+        "end_position": 139
+    },
+    {
+        "context": "Holmes used a newly discovered reagent to test for blood. The reagent reacts only with hemoglobin and produces a distinct reaction, making it a reliable test for detecting blood stains, even if the blood is old.",
+        "question": "What does Holmes' reagent test for?",
+        "answer": "hemoglobin",
+        "start_position": 87,
+        "end_position": 96
+    },
+    {
+        "context": "Holmes used a newly discovered reagent to test for blood. The reagent reacts only with hemoglobin and produces a distinct reaction, making it a reliable test for detecting blood stains, even if the blood is old.",
+        "question": "Why is Holmes' reagent significant?",
+        "answer": "making it a reliable test for detecting blood stains, even if the blood is old.",
+        "start_position": 132,
+        "end_position": 210
+    },
+    {
+        "context": "The body of Enoch Drebber was discovered at Lauriston Gardens. Blood was found at the scene, along with the word 'RACHE' scrawled on the wall. Holmes deduced that the word was a clue left by the murderer.",
+        "question": "Where was Enoch Drebber's body found?",
+        "answer": "Lauriston Gardens",
+        "start_position": 44,
+        "end_position": 60
+    },
+    {
+        "context": "The body of Enoch Drebber was discovered at Lauriston Gardens. Blood was found at the scene, along with the word 'RACHE' scrawled on the wall. Holmes deduced that the word was a clue left by the murderer.",
+        "question": "What word was written on the wall at the crime scene?",
+        "answer": "RACHE",
+        "start_position": 114,
+        "end_position": 118
+    },
+    {
+        "context": "The body of Enoch Drebber was discovered at Lauriston Gardens. Blood was found at the scene, along with the word 'RACHE' scrawled on the wall. Holmes deduced that the word was a clue left by the murderer.",
+        "question": "What did Holmes deduce about the word 'RACHE'?",
+        "answer": "the word was a clue left by the murderer.",
+        "start_position": 163,
+        "end_position": 203
+    },
+    {
+        "context": "Sherlock Holmes emphasized the importance of observation and deduction. He compared the human brain to an attic that must only be furnished with useful knowledge to avoid clutter.",
+        "question": "How did Holmes describe the human brain?",
+        "answer": "to an attic",
+        "start_position": 100,
+        "end_position": 110
+    },
+    {
+        "context": "Sherlock Holmes emphasized the importance of observation and deduction. He compared the human brain to an attic that must only be furnished with useful knowledge to avoid clutter.",
+        "question": "What did Holmes believe about irrelevant knowledge?",
+        "answer": "must only be furnished with useful knowledge to avoid clutter.",
+        "start_position": 117,
+        "end_position": 178
+    },
+    {
+        "context": "During his investigation, Holmes deduced that the murderer of Enoch Drebber was a man over six feet tall who smoked a Trichinopoly cigar. Holmes based this on the ash found at the scene.",
+        "question": "How tall did Holmes deduce the murderer was?",
+        "answer": "over six feet tall",
+        "start_position": 86,
+        "end_position": 103
+    },
+    {
+        "context": "During his investigation, Holmes deduced that the murderer of Enoch Drebber was a man over six feet tall who smoked a Trichinopoly cigar. Holmes based this on the ash found at the scene.",
+        "question": "What type of cigar did Holmes identify at the scene?",
+        "answer": "Trichinopoly cigar",
+        "start_position": 118,
+        "end_position": 135
+    },
+    {
+        "context": "Watson observed that Holmes had extraordinary knowledge in chemistry and criminal history but was ignorant of astronomy, politics, and philosophy. Holmes justified this by saying he only retained knowledge useful to his work.",
+        "question": "Which subject did Watson note Holmes was skilled in?",
+        "answer": "chemistry",
+        "start_position": 59,
+        "end_position": 67
+    },
+    {
+        "context": "Watson observed that Holmes had extraordinary knowledge in chemistry and criminal history but was ignorant of astronomy, politics, and philosophy. Holmes justified this by saying he only retained knowledge useful to his work.",
+        "question": "Why did Holmes ignore subjects like astronomy and politics?",
+        "answer": "he only retained knowledge useful to his work",
+        "start_position": 179,
+        "end_position": 223
+    },
+    {
+        "context": "Holmes advised against forming theories before gathering evidence, emphasizing that premature conclusions can bias judgment. He applied this principle during the investigation of Lauriston Gardens.",
+        "question": "What principle did Holmes emphasize during investigations?",
+        "answer": "forming theories before gathering evidence",
+        "start_position": 23,
+        "end_position": 64
+    },
+    {
+        "context": "Holmes advised against forming theories before gathering evidence, emphasizing that premature conclusions can bias judgment. He applied this principle during the investigation of Lauriston Gardens.",
+        "question": "Why did Holmes avoid premature conclusions?",
+        "answer": "premature conclusions can bias judgment",
+        "start_position": 84,
+        "end_position": 122
+    },
+    {
+        "context": "Dr. John Watson, recovering from enteric fever and a jezail bullet wound from the battle of Maiwand, returned to England after being deemed unfit for further duty in Afghanistan.",
+        "question": "What illness did Watson suffer from in Afghanistan?",
+        "answer": "enteric fever",
+        "start_position": 33,
+        "end_position": 45
+    },
+    {
+        "context": "Dr. John Watson, recovering from enteric fever and a jezail bullet wound from the battle of Maiwand, returned to England after being deemed unfit for further duty in Afghanistan.",
+        "question": "What injury did Watson sustain at the battle of Maiwand?",
+        "answer": "a jezail bullet wound",
+        "start_position": 51,
+        "end_position": 71
+    },
+    {
+        "context": "Sherlock Holmes described his profession as a 'consulting detective,' assisting both government and private detectives when they were unable to solve a case.",
+        "question": "What did Holmes call his profession?",
+        "answer": "consulting detective",
+        "start_position": 47,
+        "end_position": 66
+    },
+    {
+        "context": "Sherlock Holmes described his profession as a 'consulting detective,' assisting both government and private detectives when they were unable to solve a case.",
+        "question": "Who did Holmes assist in his profession?",
+        "answer": "government and private detectives",
+        "start_position": 85,
+        "end_position": 117
+    },
+    {
+        "context": "Holmes pointed out that the bloodstains at Lauriston Gardens likely belonged to the murderer, as there were no visible wounds on Enoch Drebber's body.",
+        "question": "Whose blood did Holmes believe was found at Lauriston Gardens?",
+        "answer": "the murderer",
+        "start_position": 80,
+        "end_position": 91
+    },
+    {
+        "context": "Holmes pointed out that the bloodstains at Lauriston Gardens likely belonged to the murderer, as there were no visible wounds on Enoch Drebber's body.",
+        "question": "Why did Holmes believe the blood was not Drebber's?",
+        "answer": "there were no visible wounds on Enoch Drebber's body",
+        "start_position": 97,
+        "end_position": 148
+    },
+    {
+        "context": "Holmes explained that the word 'RACHE' written in blood was not a name but the German word for 'revenge,' providing a clue about the murder's motive.",
+        "question": "What does the word 'RACHE' mean in German?",
+        "answer": "revenge",
+        "start_position": 96,
+        "end_position": 102
+    },
+    {
+        "context": "Holmes explained that the word 'RACHE' written in blood was not a name but the German word for 'revenge,' providing a clue about the murder's motive.",
+        "question": "What did the word 'RACHE' suggest about the motive?",
+        "answer": "providing a clue about the murder's motive",
+        "start_position": 106,
+        "end_position": 147
+    },
+    {
+        "context": "Holmes deduced that the murderer had small feet for his height, smoked a specific type of cigar, and wore square-toed boots, based on the evidence at the scene.",
+        "question": "What type of boots did the murderer wear?",
+        "answer": "square-toed boots",
+        "start_position": 106,
+        "end_position": 122
+    },
+    {
+        "context": "Holmes deduced that the murderer had small feet for his height, smoked a specific type of cigar, and wore square-toed boots, based on the evidence at the scene.",
+        "question": "What did Holmes deduce about the murderer's feet?",
+        "answer": "small feet for his height",
+        "start_position": 37,
+        "end_position": 61
+    },
+    {
+        "context": "Watson observed Holmes' extraordinary ability to identify soils and splashes on his trousers, deducing exactly where he had been walking in London.",
+        "question": "What skill did Holmes demonstrate with soil analysis?",
+        "answer": "identify soils and splashes",
+        "start_position": 49,
+        "end_position": 75
+    },
+    {
+        "context": "Watson observed Holmes' extraordinary ability to identify soils and splashes on his trousers, deducing exactly where he had been walking in London.",
+        "question": "What could Holmes deduce from splashes on his trousers?",
+        "answer": "exactly where he had been walking in London",
+        "start_position": 103,
+        "end_position": 145
+    },
+    {
+        "context": "Holmes believed that knowledge not directly relevant to his work should be discarded, arguing that the brain has limited capacity, which should not be cluttered with irrelevant facts.",
+        "question": "Why did Holmes believe irrelevant knowledge should be discarded?",
+        "answer": "the brain has limited capacity",
+        "start_position": 99,
+        "end_position": 128
+    },
+    {
+        "context": "Holmes believed that knowledge not directly relevant to his work should be discarded, arguing that the brain has limited capacity, which should not be cluttered with irrelevant facts.",
+        "question": "What was Holmes' argument against cluttering the brain?",
+        "answer": "which should not be cluttered with irrelevant facts.",
+        "start_position": 131,
+        "end_position": 182
+    },
+    {
+        "context": "While inspecting the crime scene, Holmes collected a sample of cigar ash and determined it was from a Trichinopoly cigar, which narrowed down the list of suspects.",
+        "question": "What type of cigar ash did Holmes find at the crime scene?",
+        "answer": "Trichinopoly cigar",
+        "start_position": 102,
+        "end_position": 119
+    },
+    {
+        "context": "While inspecting the crime scene, Holmes collected a sample of cigar ash and determined it was from a Trichinopoly cigar, which narrowed down the list of suspects.",
+        "question": "Why was the cigar ash significant to Holmes?",
+        "answer": "which narrowed down the list of suspects",
+        "start_position": 122,
+        "end_position": 161
+    },
+    {
+        "context": "Holmes demonstrated his violin-playing skills, often improvising pieces to match his thoughts, which Watson found both impressive and eccentric.",
+        "question": "What instrument did Holmes play?",
+        "answer": "violin",
+        "start_position": 24,
+        "end_position": 29
+    },
+    {
+        "context": "Holmes demonstrated his violin-playing skills, often improvising pieces to match his thoughts, which Watson found both impressive and eccentric.",
+        "question": "How did Watson describe Holmes' violin playing?",
+        "answer": "impressive and eccentric",
+        "start_position": 119,
+        "end_position": 142
+    },
+    {
+        "context": "At Lauriston Gardens, Holmes deduced that the murderer had arrived in a cab with his victim, noting specific wheel and hoof marks outside the house.",
+        "question": "How did Holmes deduce the murderer arrived at Lauriston Gardens?",
+        "answer": "noting specific wheel and hoof marks outside the house",
+        "start_position": 93,
+        "end_position": 146
+    },
+    {
+        "context": "At Lauriston Gardens, Holmes deduced that the murderer had arrived in a cab with his victim, noting specific wheel and hoof marks outside the house.",
+        "question": "Who did Holmes believe arrived in the cab?",
+        "answer": "the murderer had arrived in a cab with his victim",
+        "start_position": 42,
+        "end_position": 90
+    },
+    {
+        "context": "Watson observed Holmes' extraordinary ability to identify soils and splashes on his trousers, deducing exactly where he had been walking in London.",
+        "question": "What skill did Holmes demonstrate with soil analysis?",
+        "answer": "identify soils and splashes",
+        "start_position": 49,
+        "end_position": 75
+    },
+    {
+        "context": "Watson observed Holmes' extraordinary ability to identify soils and splashes on his trousers, deducing exactly where he had been walking in London.",
+        "question": "What could Holmes deduce from splashes on his trousers?",
+        "answer": "exactly where he had been walking in London",
+        "start_position": 103,
+        "end_position": 145
+    },
+    {
+        "context": "Holmes believed that knowledge not directly relevant to his work should be discarded, arguing that the brain has limited capacity, which should not be cluttered with irrelevant facts.",
+        "question": "Why did Holmes believe irrelevant knowledge should be discarded?",
+        "answer": "the brain has limited capacity",
+        "start_position": 99,
+        "end_position": 128
+    },
+    {
+        "context": "Holmes believed that knowledge not directly relevant to his work should be discarded, arguing that the brain has limited capacity, which should not be cluttered with irrelevant facts.",
+        "question": "What was Holmes' argument against cluttering the brain?",
+        "answer": "which should not be cluttered with irrelevant facts.",
+        "start_position": 131,
+        "end_position": 182
+    }
+]

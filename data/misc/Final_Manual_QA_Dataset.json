@@ -1,0 +1,1921 @@
+[
+    {
+        "context": "Jefferson Hope, the cab driver, was revealed to be the murderer.",
+        "question": "Who was revealed to be the murderer?",
+        "answer": "Jefferson Hope",
+        "start_position": 0,
+        "end_position": 14
+    },
+    {
+        "context": "Hope was motivated by a desire for revenge against Enoch Drebber for wronging Lucy Ferrier.",
+        "question": "What motivated Jefferson Hope's actions?",
+        "answer": "revenge against Enoch Drebber",
+        "start_position": 35,
+        "end_position": 64
+    },
+    {
+        "context": "Lucy Ferrier had died while fleeing persecution with her father in the Utah desert.",
+        "question": "How did Lucy Ferrier die?",
+        "answer": "fleeing persecution",
+        "start_position": 28,
+        "end_position": 47
+    },
+    {
+        "context": "Sherlock Holmes used his violin playing to relax and stimulate his mind.",
+        "question": "What did Holmes use to stimulate his mind?",
+        "answer": "violin playing",
+        "start_position": 25,
+        "end_position": 39
+    },
+    {
+        "context": "Sherlock Holmes solved the case using footprints, cigarette ash, and cab tracks.",
+        "question": "What evidence did Holmes use to solve the case?",
+        "answer": "footprints, cigarette ash, and cab tracks",
+        "start_position": 38,
+        "end_position": 79
+    },
+    {
+        "context": "Dr. Watson recorded the events of the case in his journal.",
+        "question": "Where did Dr. Watson record the case details?",
+        "answer": "in his journal",
+        "start_position": 43,
+        "end_position": 57
+    },
+    {
+        "context": "Holmes deduced the timeline of the crime using the cab driver's movements.",
+        "question": "What did Holmes use to deduce the timeline of the crime?",
+        "answer": "the cab driver's movements",
+        "start_position": 47,
+        "end_position": 73
+    },
+    {
+        "context": "The murderer left behind a pillbox containing two pills, one of which was poison.",
+        "question": "What item did the murderer leave behind?",
+        "answer": "a pillbox",
+        "start_position": 25,
+        "end_position": 34
+    },
+    {
+        "context": "The dead man's belongings included a gold watch and a letter addressed to Enoch Drebber.",
+        "question": "What item among the victim's belongings indicated his identity?",
+        "answer": "a letter addressed to Enoch Drebber",
+        "start_position": 52,
+        "end_position": 87
+    },
+    {
+        "context": "Holmes's sharp observation revealed a scratched key in the victim's pocket.",
+        "question": "What object in the victim's pocket did Holmes observe?",
+        "answer": "a scratched key",
+        "start_position": 36,
+        "end_position": 51
+    },
+    {
+        "context": "The regiment was stationed in India at the time, and before I could join it, the second Afghan war had broken out.",
+        "question": "Where was the regiment stationed?",
+        "answer": "India",
+        "start_position": 30,
+        "end_position": 35
+    },
+    {
+        "context": "I succeeded in reaching Candahar in safety, where I found my regiment, and at once entered upon my new duties.",
+        "question": "Where did Watson find his regiment?",
+        "answer": "Candahar",
+        "start_position": 24,
+        "end_position": 32
+    },
+    {
+        "context": "I was struck on the shoulder by a Jezail bullet, which shattered the bone and grazed the subclavian artery.",
+        "question": "What injured Watson in the battle?",
+        "answer": "a Jezail bullet",
+        "start_position": 32,
+        "end_position": 47
+    },
+    {
+        "context": "I should have fallen into the hands of the murderous Ghazis had it not been for the devotion and courage shown by Murray, my orderly.",
+        "question": "Who saved Watson from the Ghazis?",
+        "answer": "Murray",
+        "start_position": 114,
+        "end_position": 120
+    },
+    {
+        "context": "I was removed, with a great train of wounded sufferers, to the base hospital at Peshawar.",
+        "question": "Where was Watson taken after being injured?",
+        "answer": "the base hospital at Peshawar",
+        "start_position": 59,
+        "end_position": 88
+    },
+    {
+        "context": "For months my life was despaired of, and when at last I came to myself and became convalescent, I was so weak and emaciated.",
+        "question": "How was Watson's condition after recovering?",
+        "answer": "weak and emaciated",
+        "start_position": 105,
+        "end_position": 123
+    },
+    {
+        "context": "On the very day that I had come to this conclusion, I was standing at the Criterion Bar, when some one tapped me on the shoulder.",
+        "question": "Where was Watson standing when he met Stamford?",
+        "answer": "the Criterion Bar",
+        "start_position": 70,
+        "end_position": 87
+    },
+    {
+        "context": "He was bemoaning himself this morning because he could not get someone to go halves with him in some nice rooms which he had found.",
+        "question": "What was Holmes looking for in the morning?",
+        "answer": "someone to go halves with him",
+        "start_position": 63,
+        "end_position": 92
+    },
+    {
+        "context": "Sherlock Holmes seemed delighted at the idea of sharing his rooms with me. 'I have my eye on a suite in Baker Street,' he said.",
+        "question": "Where was Holmes planning to stay?",
+        "answer": "a suite in Baker Street",
+        "start_position": 93,
+        "end_position": 116
+    },
+    {
+        "context": "He appeared to have a passion for definite and exact knowledge.",
+        "question": "What kind of knowledge did Holmes have a passion for?",
+        "answer": "definite and exact knowledge",
+        "start_position": 34,
+        "end_position": 62
+    },
+    {
+        "context": "He was not studying medicine. He had himself, in reply to a question, confirmed Stamford's opinion upon that point.",
+        "question": "What subject was Holmes not studying?",
+        "answer": "medicine",
+        "start_position": 20,
+        "end_position": 28
+    },
+    {
+        "context": "The little man's eyes sparkled as he spoke, and he was evidently in a state of suppressed exultation.",
+        "question": "How did the little man appear while speaking?",
+        "answer": "in a state of suppressed exultation",
+        "start_position": 67,
+        "end_position": 102
+    },
+    {
+        "context": "Across this bare space there was scrawled in blood-red letters a single word\u00e2\u20ac\u201dRACHE.",
+        "question": "What word was written in blood-red letters?",
+        "answer": "RACHE",
+        "start_position": 79,
+        "end_position": 84
+    },
+    {
+        "context": "Holmes claimed that observation with him was second nature.",
+        "question": "What did Holmes claim was second nature to him?",
+        "answer": "observation",
+        "start_position": 20,
+        "end_position": 31
+    },
+    {
+        "context": "The two detectives exchanged incredulous smiles as Holmes described the clues.",
+        "question": "How did the detectives react to Holmes' description?",
+        "answer": "exchanged incredulous smiles",
+        "start_position": 19,
+        "end_position": 47
+    },
+    {
+        "context": "The cab stopped at Audley Court, a narrow passage leading to a quadrangle paved with flags.",
+        "question": "What was the name of the location the cab stopped at?",
+        "answer": "Audley Court",
+        "start_position": 19,
+        "end_position": 31
+    },
+    {
+        "context": "Holmes remarked that he had made a special study of cigar ashes and had written a monograph on the subject.",
+        "question": "What did Holmes write a monograph on?",
+        "answer": "cigar ashes",
+        "start_position": 52,
+        "end_position": 63
+    },
+    {
+        "context": "Holmes used a magnifying glass and a tape measure to examine the scene.",
+        "question": "What tools did Holmes use to examine the scene?",
+        "answer": "a magnifying glass and a tape measure",
+        "start_position": 12,
+        "end_position": 49
+    },
+    {
+        "context": "Lestrade had been examining the walls and discovered the writing in the darkest corner of the room.",
+        "question": "Where did Lestrade find the writing?",
+        "answer": "the darkest corner of the room",
+        "start_position": 68,
+        "end_position": 98
+    },
+    {
+        "context": "Watson described Stamford as someone he had known from his days at Bart's.",
+        "question": "Where had Watson known Stamford from?",
+        "answer": "Bart's",
+        "start_position": 67,
+        "end_position": 73
+    },
+    {
+        "context": "Holmes had found a re-agent which was precipitated by h\u00c3\u00a6moglobin and nothing else.",
+        "question": "What was the re-agent Holmes discovered precipitated by?",
+        "answer": "h\u00c3\u00a6moglobin",
+        "start_position": 54,
+        "end_position": 65
+    },
+    {
+        "context": "Stamford warned Watson that Holmes was a little too scientific and could appear cold-blooded.",
+        "question": "How did Stamford describe Holmes to Watson?",
+        "answer": "a little too scientific and could appear cold-blooded",
+        "start_position": 39,
+        "end_position": 92
+    },
+    {
+        "context": "Watson noted that Holmes' eyes were sharp and piercing, save during intervals of torpor.",
+        "question": "How did Watson describe Holmes' eyes?",
+        "answer": "sharp and piercing",
+        "start_position": 36,
+        "end_position": 54
+    },
+    {
+        "context": "The word 'RACHE' was written in blood on the wall of the crime scene.",
+        "question": "What material was used to write 'RACHE' on the wall?",
+        "answer": "blood",
+        "start_position": 32,
+        "end_position": 37
+    },
+    {
+        "context": "Holmes claimed that his work relied heavily on observation and deduction.",
+        "question": "What two skills did Holmes claim his work relied on?",
+        "answer": "observation and deduction",
+        "start_position": 47,
+        "end_position": 72
+    },
+    {
+        "context": "Holmes remarked that the old Guaiacum test for blood stains was clumsy and uncertain.",
+        "question": "What test did Holmes describe as clumsy and uncertain?",
+        "answer": "the old Guaiacum test",
+        "start_position": 21,
+        "end_position": 42
+    },
+    {
+        "context": "Watson observed that Holmes' knowledge of botany was variable, particularly with poisons.",
+        "question": "In what area of botany did Holmes have particular knowledge?",
+        "answer": "poisons",
+        "start_position": 81,
+        "end_position": 88
+    },
+    {
+        "context": "The landlady had become accustomed to Watson's late habits and rarely prepared breakfast early.",
+        "question": "What habit of Watson's had the landlady become accustomed to?",
+        "answer": "late habits",
+        "start_position": 47,
+        "end_position": 58
+    },
+    {
+        "context": "Holmes believed that a man's brain was like an attic to be filled with useful tools.",
+        "question": "What did Holmes compare a man's brain to?",
+        "answer": "an attic",
+        "start_position": 44,
+        "end_position": 52
+    },
+    {
+        "context": "Watson was struck by the contrast between Holmes' practical knowledge and his ignorance of common subjects.",
+        "question": "What did Watson find striking about Holmes?",
+        "answer": "contrast between Holmes' practical knowledge and his ignorance",
+        "start_position": 25,
+        "end_position": 87
+    },
+    {
+        "context": "Holmes stated that no man burdens his mind with small matters unless he has a reason.",
+        "question": "What did Holmes believe about burdening one's mind with small matters?",
+        "answer": "no man burdens his mind with small matters unless he has a reason",
+        "start_position": 19,
+        "end_position": 84
+    },
+    {
+        "context": "Holmes had a list of accomplishments that included geology and sensational literature.",
+        "question": "What subjects were part of Holmes' list of accomplishments?",
+        "answer": "geology and sensational literature",
+        "start_position": 51,
+        "end_position": 85
+    },
+    {
+        "context": "Holmes explained that his discovery was an infallible test for blood stains.",
+        "question": "What did Holmes claim his discovery was?",
+        "answer": "an infallible test for blood stains",
+        "start_position": 40,
+        "end_position": 75
+    },
+    {
+        "context": "Holmes referred to his violin playing as a way to reflect his thoughts.",
+        "question": "What did Holmes use his violin playing to reflect?",
+        "answer": "his thoughts",
+        "start_position": 58,
+        "end_position": 70
+    },
+    {
+        "context": "Watson noted that Holmes' chin had the prominence and squareness of determination.",
+        "question": "What feature of Holmes' chin did Watson highlight?",
+        "answer": "prominence and squareness",
+        "start_position": 39,
+        "end_position": 64
+    },
+    {
+        "context": "Holmes told Watson that his methods of deduction were practical and essential to his work.",
+        "question": "How did Holmes describe his methods of deduction?",
+        "answer": "practical and essential to his work",
+        "start_position": 54,
+        "end_position": 89
+    },
+    {
+        "context": "Lestrade brought to light a wedding ring that had been left at the crime scene.",
+        "question": "What item did Lestrade find at the crime scene?",
+        "answer": "a wedding ring",
+        "start_position": 26,
+        "end_position": 40
+    },
+    {
+        "context": "Holmes remarked that Lestrade and Gregson were conventional in their approach.",
+        "question": "How did Holmes describe Lestrade and Gregson's approach?",
+        "answer": "conventional",
+        "start_position": 47,
+        "end_position": 59
+    },
+    {
+        "context": "The rooms at 221B Baker Street were described as cheerful and well-furnished.",
+        "question": "How were the rooms at 221B Baker Street described?",
+        "answer": "cheerful and well-furnished",
+        "start_position": 49,
+        "end_position": 76
+    },
+    {
+        "context": "Holmes explained that he used his knowledge of crime history to assist detectives.",
+        "question": "What did Holmes use to assist detectives?",
+        "answer": "his knowledge of crime history",
+        "start_position": 30,
+        "end_position": 60
+    },
+    {
+        "context": "Watson noted that Holmes had an uncanny ability to identify soil types by color and consistency.",
+        "question": "What ability of Holmes did Watson find uncanny?",
+        "answer": "identify soil types by color and consistency",
+        "start_position": 51,
+        "end_position": 95
+    },
+    {
+        "context": "The landlady was surprised when Holmes suddenly stopped playing his violin to take a case.",
+        "question": "What interrupted Holmes' violin playing?",
+        "answer": "to take a case",
+        "start_position": 75,
+        "end_position": 89
+    },
+    {
+        "context": "Holmes often worked for private inquiry agencies when official detectives were at a loss.",
+        "question": "Who did Holmes work for when official detectives needed help?",
+        "answer": "private inquiry agencies",
+        "start_position": 24,
+        "end_position": 48
+    },
+    {
+        "context": "Watson remarked that Holmes could be extremely energetic when pursuing a case.",
+        "question": "How did Watson describe Holmes' behavior when pursuing a case?",
+        "answer": "extremely energetic",
+        "start_position": 37,
+        "end_position": 56
+    },
+    {
+        "context": "The chemical test Holmes developed could detect blood stains even when diluted.",
+        "question": "What did Holmes' chemical test detect?",
+        "answer": "blood stains",
+        "start_position": 48,
+        "end_position": 60
+    },
+    {
+        "context": "Holmes once said that the smallest details could hold the greatest importance.",
+        "question": "What did Holmes believe about small details?",
+        "answer": "the smallest details could hold the greatest importance",
+        "start_position": 22,
+        "end_position": 77
+    },
+    {
+        "context": "The Lauriston Gardens case involved a man found dead in an empty house.",
+        "question": "Where was the man found in the Lauriston Gardens case?",
+        "answer": "in an empty house",
+        "start_position": 53,
+        "end_position": 70
+    },
+    {
+        "context": "Gregson and Lestrade often competed to solve cases, sometimes to their detriment.",
+        "question": "How did Gregson and Lestrade's competition affect their work?",
+        "answer": "sometimes to their detriment",
+        "start_position": 52,
+        "end_position": 80
+    },
+    {
+        "context": "Watson described Holmes as having sharp eyes and a thin, hawk-like nose.",
+        "question": "What features of Holmes did Watson highlight?",
+        "answer": "sharp eyes and a thin, hawk-like nose",
+        "start_position": 34,
+        "end_position": 71
+    },
+    {
+        "context": "Holmes had a habit of playing the violin in a dreamy, reflective manner.",
+        "question": "How did Holmes play the violin?",
+        "answer": "in a dreamy, reflective manner",
+        "start_position": 41,
+        "end_position": 71
+    },
+    {
+        "context": "Lestrade discovered blood smears on the floor leading to the fireplace.",
+        "question": "What did Lestrade discover leading to the fireplace?",
+        "answer": "blood smears",
+        "start_position": 20,
+        "end_position": 32
+    },
+    {
+        "context": "Holmes demonstrated his discovery of a precipitate reaction to Watson in the laboratory.",
+        "question": "Where did Holmes demonstrate his discovery to Watson?",
+        "answer": "in the laboratory",
+        "start_position": 70,
+        "end_position": 87
+    },
+    {
+        "context": "The room where the body was found had peeling wallpaper and mildew stains.",
+        "question": "What condition was the wallpaper in the crime scene?",
+        "answer": "peeling",
+        "start_position": 38,
+        "end_position": 45
+    },
+    {
+        "context": "Holmes noted the presence of a candle stump on the mantelpiece at the scene.",
+        "question": "What did Holmes find on the mantelpiece at the scene?",
+        "answer": "a candle stump",
+        "start_position": 29,
+        "end_position": 43
+    },
+    {
+        "context": "Watson described Stamford as cheerful and eager to help him find a roommate.",
+        "question": "How did Watson describe Stamford?",
+        "answer": "cheerful and eager to help",
+        "start_position": 29,
+        "end_position": 55
+    },
+    {
+        "context": "Holmes insisted that theorizing without data biased the judgment.",
+        "question": "What did Holmes believe theorizing without data caused?",
+        "answer": "biased the judgment",
+        "start_position": 45,
+        "end_position": 64
+    },
+    {
+        "context": "The Brixton Road was described as foggy and dull on the morning of the investigation.",
+        "question": "What was the weather like on Brixton Road during the investigation?",
+        "answer": "foggy and dull",
+        "start_position": 34,
+        "end_position": 48
+    },
+    {
+        "context": "Holmes suggested that the word 'RACHE' meant 'revenge' in German.",
+        "question": "What did Holmes suggest the word 'RACHE' meant?",
+        "answer": "'revenge'",
+        "start_position": 45,
+        "end_position": 54
+    },
+    {
+        "context": "Holmes claimed that he could deduce a man's profession by examining his hands.",
+        "question": "What did Holmes claim he could deduce by examining a man's hands?",
+        "answer": "a man's profession",
+        "start_position": 36,
+        "end_position": 54
+    },
+    {
+        "context": "Watson observed that Holmes rarely displayed emotion during investigations.",
+        "question": "What did Watson observe about Holmes during investigations?",
+        "answer": "rarely displayed emotion",
+        "start_position": 28,
+        "end_position": 52
+    },
+    {
+        "context": "The note left for Holmes invited him to Lauriston Gardens to inspect the crime scene.",
+        "question": "What was Holmes invited to do in the note?",
+        "answer": "inspect the crime scene",
+        "start_position": 61,
+        "end_position": 84
+    },
+    {
+        "context": "Watson noted that Holmes would sometimes spend hours staring at the ceiling in thought.",
+        "question": "What did Holmes sometimes do for hours?",
+        "answer": "spend hours staring at the ceiling in thought",
+        "start_position": 41,
+        "end_position": 86
+    },
+    {
+        "context": "Holmes explained that the murderer was a tall man with square-toed boots.",
+        "question": "What type of boots did the murderer wear according to Holmes?",
+        "answer": "square-toed boots",
+        "start_position": 55,
+        "end_position": 72
+    },
+    {
+        "context": "The victim was identified as Enoch Drebber, a visitor from Cleveland, Ohio.",
+        "question": "Where was Enoch Drebber from?",
+        "answer": "Cleveland, Ohio",
+        "start_position": 59,
+        "end_position": 74
+    },
+    {
+        "context": "Holmes used the ash found at the scene to identify the type of cigar smoked by the suspect.",
+        "question": "What did Holmes identify using the ash at the scene?",
+        "answer": "the type of cigar smoked by the suspect",
+        "start_position": 51,
+        "end_position": 90
+    },
+    {
+        "context": "Watson remarked that Holmes preferred working alone to avoid interference from others.",
+        "question": "Why did Holmes prefer working alone?",
+        "answer": "to avoid interference from others",
+        "start_position": 52,
+        "end_position": 85
+    },
+    {
+        "context": "The streets of London were described as foggy and bustling during Holmes and Watson's cab ride.",
+        "question": "How were the streets of London described during the cab ride?",
+        "answer": "foggy and bustling",
+        "start_position": 40,
+        "end_position": 58
+    },
+    {
+        "context": "Sherlock Holmes used his glass to examine the ash found at the crime scene.",
+        "question": "What tool did Holmes use to examine the ash?",
+        "answer": "his glass",
+        "start_position": 21,
+        "end_position": 30
+    },
+    {
+        "context": "The victim's gold wedding ring was found in the room.",
+        "question": "What piece of jewelry was found in the room?",
+        "answer": "gold wedding ring",
+        "start_position": 13,
+        "end_position": 30
+    },
+    {
+        "context": "Holmes deduced the height of the murderer from the writing on the wall.",
+        "question": "What did Holmes deduce from the writing on the wall?",
+        "answer": "the height of the murderer",
+        "start_position": 15,
+        "end_position": 41
+    },
+    {
+        "context": "The writing on the wall was done in blood using the murderer's finger.",
+        "question": "What material was used to write on the wall?",
+        "answer": "blood",
+        "start_position": 36,
+        "end_position": 41
+    },
+    {
+        "context": "Holmes identified the type of cigar smoked by analyzing the ash.",
+        "question": "What did Holmes identify by analyzing the ash?",
+        "answer": "the type of cigar smoked",
+        "start_position": 18,
+        "end_position": 42
+    },
+    {
+        "context": "The cab that brought the victim had a horse with one new shoe.",
+        "question": "What was unique about the horse pulling the cab?",
+        "answer": "one new shoe",
+        "start_position": 49,
+        "end_position": 61
+    },
+    {
+        "context": "Lestrade believed the murderer returned to the house for the ring.",
+        "question": "What did Lestrade think the murderer returned for?",
+        "answer": "the ring",
+        "start_position": 57,
+        "end_position": 65
+    },
+    {
+        "context": "Holmes explained that the murderer wrote 'RACHE' as a diversion.",
+        "question": "Why did the murderer write 'RACHE' according to Holmes?",
+        "answer": "as a diversion",
+        "start_position": 49,
+        "end_position": 63
+    },
+    {
+        "context": "Watson observed that Holmes could deduce a person's occupation by their boots.",
+        "question": "What could Holmes deduce from a person's boots?",
+        "answer": "a person's occupation",
+        "start_position": 41,
+        "end_position": 64
+    },
+    {
+        "context": "The detective described the crime as the result of a long-standing feud.",
+        "question": "What did Holmes describe the crime as the result of?",
+        "answer": "a long-standing feud",
+        "start_position": 51,
+        "end_position": 71
+    },
+    {
+        "context": "Watson described the sitting room at 221B Baker Street as cheerful and well-lit by two broad windows.",
+        "question": "How did Watson describe the sitting room at 221B Baker Street?",
+        "answer": "cheerful and well-lit by two broad windows",
+        "start_position": 58,
+        "end_position": 100
+    },
+    {
+        "context": "Holmes identified the type of ash found at the scene as from a Trichinopoly cigar.",
+        "question": "What type of cigar ash did Holmes identify?",
+        "answer": "Trichinopoly cigar",
+        "start_position": 63,
+        "end_position": 81
+    },
+    {
+        "context": "The phrase 'a scarlet thread of murder running through the skein of life' was how Holmes described the case.",
+        "question": "How did Holmes describe the case?",
+        "answer": "'a scarlet thread of murder running through the skein of life'",
+        "start_position": 11,
+        "end_position": 73
+    },
+    {
+        "context": "Holmes suggested using the victim's ring as bait to lure the suspect.",
+        "question": "What did Holmes suggest using as bait?",
+        "answer": "the victim's ring",
+        "start_position": 23,
+        "end_position": 40
+    },
+    {
+        "context": "Lestrade discovered that Drebber had previously sought legal protection against Jefferson Hope.",
+        "question": "Against whom had Drebber sought legal protection?",
+        "answer": "Jefferson Hope",
+        "start_position": 80,
+        "end_position": 94
+    },
+    {
+        "context": "Watson observed that Holmes could discern a person's profession by examining their fingernails and attire.",
+        "question": "How did Holmes discern a person's profession?",
+        "answer": "by examining their fingernails and attire",
+        "start_position": 64,
+        "end_position": 105
+    },
+    {
+        "context": "Holmes claimed that observation and deduction were his most valuable tools.",
+        "question": "What did Holmes claim were his most valuable tools?",
+        "answer": "observation and deduction",
+        "start_position": 20,
+        "end_position": 45
+    },
+    {
+        "context": "The blood trail indicated that the suspect was robust and ruddy-faced, according to Holmes.",
+        "question": "What did Holmes deduce about the suspect from the blood trail?",
+        "answer": "robust and ruddy-faced",
+        "start_position": 47,
+        "end_position": 69
+    },
+    {
+        "context": "Holmes noted that the murderer left the cab unattended while inside the house.",
+        "question": "What did Holmes note about the cab during the crime?",
+        "answer": "left the cab unattended",
+        "start_position": 31,
+        "end_position": 54
+    },
+    {
+        "context": "Watson described Holmes' violin playing as both melancholy and fantastic, reflecting his mood.",
+        "question": "How did Watson describe Holmes' violin playing?",
+        "answer": "melancholy and fantastic, reflecting his mood",
+        "start_position": 48,
+        "end_position": 93
+    },
+    {
+        "context": "Watson observed that Holmes had an uncanny ability to deduce details from seemingly trivial clues.",
+        "question": "What ability of Holmes did Watson find uncanny?",
+        "answer": "deduce details from seemingly trivial clues",
+        "start_position": 54,
+        "end_position": 97
+    },
+    {
+        "context": "Holmes deduced that the murderer had been in a state of great excitement during the crime.",
+        "question": "What state did Holmes deduce the murderer was in during the crime?",
+        "answer": "a state of great excitement",
+        "start_position": 45,
+        "end_position": 72
+    },
+    {
+        "context": "Gregson uncovered that Drebber had recently come into a large sum of money.",
+        "question": "What did Gregson uncover about Drebber?",
+        "answer": "recently come into a large sum of money",
+        "start_position": 35,
+        "end_position": 74
+    },
+    {
+        "context": "Holmes remarked that the footprints indicated the suspect was wearing square-toed shoes.",
+        "question": "What type of shoes did the suspect wear according to Holmes?",
+        "answer": "square-toed shoes",
+        "start_position": 70,
+        "end_position": 87
+    },
+    {
+        "context": "The room where the crime occurred was described as dusty and unfurnished.",
+        "question": "How was the room where the crime occurred described?",
+        "answer": "dusty and unfurnished",
+        "start_position": 51,
+        "end_position": 72
+    },
+    {
+        "context": "Holmes stated that the absence of valuables ruled out robbery as a motive.",
+        "question": "What ruled out robbery as a motive according to Holmes?",
+        "answer": "absence of valuables",
+        "start_position": 23,
+        "end_position": 43
+    },
+    {
+        "context": "The cab driver revealed that he had taken Drebber to Lauriston Gardens.",
+        "question": "Where did the cab driver take Drebber?",
+        "answer": "Lauriston Gardens",
+        "start_position": 53,
+        "end_position": 70
+    },
+    {
+        "context": "Holmes noted that the murderer's hands had been stained with blood, likely from the writing on the wall.",
+        "question": "What did Holmes note about the murderer's hands?",
+        "answer": "stained with blood",
+        "start_position": 50,
+        "end_position": 68
+    },
+    {
+        "context": "Watson described the streets of London as bustling with activity during their investigation.",
+        "question": "How did Watson describe the streets of London during the investigation?",
+        "answer": "bustling with activity",
+        "start_position": 42,
+        "end_position": 64
+    },
+    {
+        "context": "The investigation revealed that the victim had consumed poison before his death.",
+        "question": "What did the investigation reveal the victim had consumed?",
+        "answer": "poison",
+        "start_position": 56,
+        "end_position": 62
+    },
+    {
+        "context": "Sherlock Holmes remarked that a man's profession could often be deduced from his attire and habits.",
+        "question": "What did Holmes say could reveal a man's profession?",
+        "answer": "his attire and habits",
+        "start_position": 77,
+        "end_position": 98
+    },
+    {
+        "context": "Watson noted that Holmes could remain silent for days when deeply engrossed in a problem.",
+        "question": "How did Holmes behave when deeply engrossed in a problem?",
+        "answer": "remain silent for days",
+        "start_position": 31,
+        "end_position": 53
+    },
+    {
+        "context": "Lestrade found that the victim had stayed at Madame Charpentier's boarding house.",
+        "question": "Where did the victim stay before his death?",
+        "answer": "Madame Charpentier's boarding house",
+        "start_position": 45,
+        "end_position": 80
+    },
+    {
+        "context": "The phrase 'scarlet thread of murder' was used by Holmes to describe the interconnected events.",
+        "question": "What phrase did Holmes use to describe the interconnected events?",
+        "answer": "'scarlet thread of murder'",
+        "start_position": 11,
+        "end_position": 37
+    },
+    {
+        "context": "The pills found in the victim's room were identified as containing poison.",
+        "question": "What was contained in the pills found in the victim's room?",
+        "answer": "poison",
+        "start_position": 67,
+        "end_position": 73
+    },
+    {
+        "context": "Holmes concluded that the victim's watch was pawned due to financial difficulty.",
+        "question": "Why did Holmes believe the victim's watch was pawned?",
+        "answer": "due to financial difficulty",
+        "start_position": 52,
+        "end_position": 79
+    },
+    {
+        "context": "Watson observed that Holmes often carried out chemical experiments in their shared rooms.",
+        "question": "What type of experiments did Holmes carry out in their rooms?",
+        "answer": "chemical experiments",
+        "start_position": 46,
+        "end_position": 66
+    },
+    {
+        "context": "Holmes deduced that the suspect was tall based on the height of writing on the wall.",
+        "question": "How did Holmes deduce the suspect's height?",
+        "answer": "based on the height of writing on the wall",
+        "start_position": 41,
+        "end_position": 83
+    },
+    {
+        "context": "Holmes emphasized that even the smallest clues could unravel the most complex mysteries.",
+        "question": "What did Holmes say about the smallest clues?",
+        "answer": "could unravel the most complex mysteries",
+        "start_position": 47,
+        "end_position": 87
+    },
+    {
+        "context": "Watson described Holmes as having a remarkable power of observation and a logical mind.",
+        "question": "What qualities of Holmes did Watson describe?",
+        "answer": "remarkable power of observation and a logical mind",
+        "start_position": 36,
+        "end_position": 86
+    },
+    {
+        "context": "Lestrade believed the murderer had a military background due to his precise actions.",
+        "question": "Why did Lestrade believe the murderer had a military background?",
+        "answer": "due to his precise actions",
+        "start_position": 57,
+        "end_position": 83
+    },
+    {
+        "context": "Holmes stated that fingerprints at the scene were a valuable clue in identifying the suspect.",
+        "question": "What did Holmes say was a valuable clue at the scene?",
+        "answer": "fingerprints",
+        "start_position": 19,
+        "end_position": 31
+    },
+    {
+        "context": "The body was discovered in a position suggesting the victim had struggled before death.",
+        "question": "What did the victim's position suggest?",
+        "answer": "the victim had struggled before death",
+        "start_position": 49,
+        "end_position": 86
+    },
+    {
+        "context": "Watson noted that Holmes seemed to enjoy intellectual challenges and solving puzzles.",
+        "question": "What did Holmes seem to enjoy according to Watson?",
+        "answer": "intellectual challenges and solving puzzles",
+        "start_position": 41,
+        "end_position": 84
+    },
+    {
+        "context": "Holmes demonstrated his knowledge of chemistry by identifying a rare compound at the scene.",
+        "question": "How did Holmes demonstrate his knowledge of chemistry?",
+        "answer": "by identifying a rare compound at the scene",
+        "start_position": 47,
+        "end_position": 90
+    },
+    {
+        "context": "The landlady mentioned that Holmes often kept odd hours, working late into the night.",
+        "question": "What did the landlady say about Holmes' work habits?",
+        "answer": "kept odd hours, working late into the night",
+        "start_position": 41,
+        "end_position": 84
+    },
+    {
+        "context": "Holmes described the case as a perfect example of how logic and analysis solve crimes.",
+        "question": "How did Holmes describe the role of logic and analysis in solving crimes?",
+        "answer": "a perfect example of how logic and analysis solve crimes",
+        "start_position": 29,
+        "end_position": 85
+    },
+    {
+        "context": "The victim's handwriting was compared to the message on the wall to rule out forgery.",
+        "question": "Why was the victim's handwriting compared to the message on the wall?",
+        "answer": "to rule out forgery",
+        "start_position": 65,
+        "end_position": 84
+    },
+    {
+        "context": "Holmes noted that the scratches on the door indicated the murderer tried to force entry.",
+        "question": "What did the scratches on the door indicate?",
+        "answer": "the murderer tried to force entry",
+        "start_position": 54,
+        "end_position": 87
+    },
+    {
+        "context": "Watson remarked that Holmes seemed indifferent to fame despite his exceptional abilities.",
+        "question": "How did Watson describe Holmes' attitude toward fame?",
+        "answer": "indifferent to fame",
+        "start_position": 35,
+        "end_position": 54
+    },
+    {
+        "context": "The footprint found at the crime scene was larger than average, suggesting a tall man.",
+        "question": "What did the footprint at the crime scene suggest?",
+        "answer": "a tall man",
+        "start_position": 75,
+        "end_position": 85
+    },
+    {
+        "context": "Holmes deduced that the suspect used a cab to escape, based on wheel marks outside.",
+        "question": "How did Holmes deduce the suspect used a cab to escape?",
+        "answer": "based on wheel marks outside",
+        "start_position": 54,
+        "end_position": 82
+    },
+    {
+        "context": "The victim's coat had a bloodstain on the inside pocket, further complicating the case.",
+        "question": "Where was the bloodstain found on the victim's coat?",
+        "answer": "on the inside pocket",
+        "start_position": 37,
+        "end_position": 57
+    },
+    {
+        "context": "Holmes explained that the angle of the blood spatter indicated a left-handed attacker.",
+        "question": "What did the angle of the blood spatter indicate?",
+        "answer": "a left-handed attacker",
+        "start_position": 63,
+        "end_position": 85
+    },
+    {
+        "context": "Lestrade claimed the case had political implications due to the victim's background.",
+        "question": "Why did Lestrade think the case had political implications?",
+        "answer": "due to the victim's background",
+        "start_position": 53,
+        "end_position": 83
+    },
+    {
+        "context": "Holmes observed that the murderer likely used a knife based on the wound patterns.",
+        "question": "What weapon did Holmes infer the murderer used?",
+        "answer": "a knife",
+        "start_position": 46,
+        "end_position": 53
+    },
+    {
+        "context": "Watson noted that Holmes' sense of smell was so acute he could identify specific perfumes.",
+        "question": "What did Watson say Holmes could identify due to his acute sense of smell?",
+        "answer": "specific perfumes",
+        "start_position": 74,
+        "end_position": 91
+    },
+    {
+        "context": "The landlady described Holmes as a quiet tenant who rarely caused any disturbance.",
+        "question": "How did the landlady describe Holmes?",
+        "answer": "a quiet tenant who rarely caused any disturbance",
+        "start_position": 33,
+        "end_position": 81
+    },
+    {
+        "context": "The word 'RACHE' written in blood on the wall puzzled both the detectives and Holmes.",
+        "question": "What word was written in blood on the wall?",
+        "answer": "'RACHE'",
+        "start_position": 9,
+        "end_position": 16
+    },
+    {
+        "context": "Holmes deduced that the absence of valuables in the room indicated the crime was not a robbery.",
+        "question": "What did Holmes deduce from the absence of valuables?",
+        "answer": "the crime was not a robbery",
+        "start_position": 67,
+        "end_position": 94
+    },
+    {
+        "context": "The murderer was clever enough to leave misleading evidence at the scene.",
+        "question": "What type of evidence did the murderer leave at the scene?",
+        "answer": "misleading evidence",
+        "start_position": 40,
+        "end_position": 59
+    },
+    {
+        "context": "Jefferson Hope's resilience in tracking Drebber and Stangerson was unmatched.",
+        "question": "What quality of Jefferson Hope is highlighted in his pursuit of Drebber and Stangerson?",
+        "answer": "resilience",
+        "start_position": 19,
+        "end_position": 29
+    },
+    {
+        "context": "Watson described Holmes' violin playing as an outlet for his emotions.",
+        "question": "How did Watson describe Holmes' violin playing?",
+        "answer": "an outlet for his emotions",
+        "start_position": 43,
+        "end_position": 69
+    },
+    {
+        "context": "The cab driver's confession revealed the sequence of events leading to the murder.",
+        "question": "What did the cab driver's confession reveal?",
+        "answer": "the sequence of events leading to the murder",
+        "start_position": 39,
+        "end_position": 83
+    },
+    {
+        "context": "Holmes used his glass to analyze the scratches on the wall near the blood writing.",
+        "question": "What tool did Holmes use to analyze the scratches?",
+        "answer": "his glass",
+        "start_position": 12,
+        "end_position": 21
+    },
+    {
+        "context": "Jefferson Hope carved a warning into the wood near Ferrier's grave before continuing his journey.",
+        "question": "What did Jefferson Hope carve near Ferrier's grave?",
+        "answer": "a warning",
+        "start_position": 22,
+        "end_position": 31
+    },
+    {
+        "context": "Holmes's detailed examination revealed the peculiar stitching on the murderer's shoe.",
+        "question": "What detail about the murderer's shoe did Holmes reveal?",
+        "answer": "peculiar stitching",
+        "start_position": 43,
+        "end_position": 61
+    },
+    {
+        "context": "The witness claimed to have heard a carriage late at night outside Lauriston Gardens.",
+        "question": "What did the witness claim to hear outside Lauriston Gardens?",
+        "answer": "a carriage",
+        "start_position": 34,
+        "end_position": 44
+    },
+    {
+        "context": "Holmes explained that the knife found at the scene had been planted to mislead the investigation.",
+        "question": "Why did Holmes say the knife was left at the scene?",
+        "answer": "to mislead the investigation",
+        "start_position": 68,
+        "end_position": 96
+    },
+    {
+        "context": "The letter in the victim's pocket was addressed to a Mr. Stangerson.",
+        "question": "Who was the letter found in the victim's pocket addressed to?",
+        "answer": "Mr. Stangerson",
+        "start_position": 53,
+        "end_position": 67
+    },
+    {
+        "context": "Watson observed the precision with which Holmes deduced the murderer's height from footprints.",
+        "question": "What did Watson observe Holmes deduce from the footprints?",
+        "answer": "the murderer's height",
+        "start_position": 56,
+        "end_position": 79
+    },
+    {
+        "context": "Holmes stated that the absence of furniture in the room highlighted the murderer's preparation.",
+        "question": "What did the absence of furniture highlight according to Holmes?",
+        "answer": "the murderer's preparation",
+        "start_position": 68,
+        "end_position": 96
+    },
+    {
+        "context": "Lestrade mentioned that Drebber had recently inherited a large fortune.",
+        "question": "What did Lestrade say about Drebber's financial status?",
+        "answer": "recently inherited a large fortune",
+        "start_position": 36,
+        "end_position": 70
+    },
+    {
+        "context": "The trail through the Eagle Ca\u00c3\u00b1on led the fugitives to a hidden mountain pass.",
+        "question": "Where did the trail through Eagle Ca\u00c3\u00b1on lead?",
+        "answer": "a hidden mountain pass",
+        "start_position": 56,
+        "end_position": 78
+    },
+    {
+        "context": "The ladder left by the window suggested that the murderer used it to escape after the crime.",
+        "question": "What did the ladder by the window suggest?",
+        "answer": "the murderer used it to escape",
+        "start_position": 45,
+        "end_position": 75
+    },
+    {
+        "context": "Sherlock Holmes reasoned that the murderer was robust based on the force used to stab the victim.",
+        "question": "How did Holmes deduce the murderer was robust?",
+        "answer": "based on the force used to stab the victim",
+        "start_position": 54,
+        "end_position": 96
+    },
+    {
+        "context": "Holmes identified the ash at the crime scene as from a rare cigar, a Trichinopoly.",
+        "question": "What type of cigar ash was identified by Holmes?",
+        "answer": "a Trichinopoly",
+        "start_position": 67,
+        "end_position": 81
+    },
+    {
+        "context": "The blood-stained water in the basin indicated the murderer had washed his hands after the crime.",
+        "question": "What did the blood-stained water in the basin indicate?",
+        "answer": "the murderer had washed his hands",
+        "start_position": 47,
+        "end_position": 80
+    },
+    {
+        "context": "The chipped ointment box found in the victim's room contained two pills.",
+        "question": "What was found in the ointment box in the victim's room?",
+        "answer": "two pills",
+        "start_position": 62,
+        "end_position": 71
+    },
+    {
+        "context": "Lestrade mentioned that the word 'RACHE' on the wall could mean 'revenge' in German.",
+        "question": "What did the word 'RACHE' mean according to Lestrade?",
+        "answer": "'revenge' in German",
+        "start_position": 64,
+        "end_position": 83
+    },
+    {
+        "context": "The telegram found in Stangerson's pocket contained the message 'J. H. is in Europe.'",
+        "question": "What message was found in the telegram in Stangerson's pocket?",
+        "answer": "'J. H. is in Europe.'",
+        "start_position": 66,
+        "end_position": 87
+    },
+    {
+        "context": "Holmes explained that reasoning backwards involves starting with the result and uncovering the cause.",
+        "question": "What did Holmes say reasoning backwards involves?",
+        "answer": "starting with the result and uncovering the cause",
+        "start_position": 51,
+        "end_position": 100
+    },
+    {
+        "context": "Holmes discovered that the murderer had written on the wall using a finger dipped in blood.",
+        "question": "What did the murderer use to write on the wall?",
+        "answer": "a finger dipped in blood",
+        "start_position": 66,
+        "end_position": 90
+    },
+    {
+        "context": "The milk boy testified to seeing a man descend the ladder early in the morning.",
+        "question": "What did the milk boy see early in the morning?",
+        "answer": "a man descend the ladder",
+        "start_position": 33,
+        "end_position": 57
+    },
+    {
+        "context": "Lestrade noted that the word 'RACHE' was intended to throw the investigators off track.",
+        "question": "What did Lestrade think about the word 'RACHE'?",
+        "answer": "intended to throw the investigators off track",
+        "start_position": 41,
+        "end_position": 86
+    },
+    {
+        "context": "Sherlock Holmes used his magnifying glass to analyze dust marks on the floorboards.",
+        "question": "What did Sherlock Holmes use to analyze dust marks?",
+        "answer": "his magnifying glass",
+        "start_position": 21,
+        "end_position": 41
+    },
+    {
+        "context": "Jefferson Hope's deep desire for revenge was described as unrelenting and all-consuming.",
+        "question": "How was Jefferson Hope's desire for revenge described?",
+        "answer": "unrelenting and all-consuming",
+        "start_position": 60,
+        "end_position": 89
+    },
+    {
+        "context": "The bloodstains on the victim's hands suggested a struggle before death.",
+        "question": "What did the bloodstains on the victim's hands suggest?",
+        "answer": "a struggle before death",
+        "start_position": 48,
+        "end_position": 71
+    },
+    {
+        "context": "Holmes explained that the muddy footprints on the carpet were crucial evidence.",
+        "question": "What did Holmes say about the muddy footprints on the carpet?",
+        "answer": "crucial evidence",
+        "start_position": 62,
+        "end_position": 78
+    },
+    {
+        "context": "The peculiar stitching on the victim's shoe helped Holmes identify its maker.",
+        "question": "What did the stitching on the victim's shoe help Holmes identify?",
+        "answer": "its maker",
+        "start_position": 67,
+        "end_position": 76
+    },
+    {
+        "context": "Holmes noted that the second man at the crime scene had left cigarette ash.",
+        "question": "What did Holmes note the second man left at the crime scene?",
+        "answer": "cigarette ash",
+        "start_position": 61,
+        "end_position": 74
+    },
+    {
+        "context": "Gregson claimed that Drebber had been planning to leave for America.",
+        "question": "What did Gregson claim about Drebber's plans?",
+        "answer": "planning to leave for America",
+        "start_position": 38,
+        "end_position": 67
+    },
+    {
+        "context": "Holmes identified the victim's missing watch as a critical lead in the case.",
+        "question": "What did Holmes identify as a critical lead in the case?",
+        "answer": "the victim's missing watch",
+        "start_position": 18,
+        "end_position": 46
+    },
+    {
+        "context": "Sherlock Holmes deduced that the handwriting on the note was meant to mislead investigators by imitating German style.",
+        "question": "What did Holmes deduce about the handwriting on the note?",
+        "answer": "meant to mislead investigators by imitating German style",
+        "start_position": 61,
+        "end_position": 117
+    },
+    {
+        "context": "Gregson and Lestrade disagreed over the interpretation of the blood smears near the body.",
+        "question": "What did Gregson and Lestrade disagree about?",
+        "answer": "the interpretation of the blood smears near the body",
+        "start_position": 36,
+        "end_position": 88
+    },
+    {
+        "context": "Jefferson Hope used his knowledge of the mountains to evade capture for days.",
+        "question": "How did Jefferson Hope evade capture?",
+        "answer": "used his knowledge of the mountains",
+        "start_position": 15,
+        "end_position": 50
+    },
+    {
+        "context": "Holmes noted that the ladder by the second-story window suggested a calculated escape.",
+        "question": "What did Holmes infer about the ladder by the second-story window?",
+        "answer": "suggested a calculated escape",
+        "start_position": 56,
+        "end_position": 85
+    },
+    {
+        "context": "The chip ointment box found in the room contained two pills, one of which was poisonous.",
+        "question": "What did the ointment box found in the room contain?",
+        "answer": "two pills, one of which was poisonous",
+        "start_position": 50,
+        "end_position": 87
+    },
+    {
+        "context": "Holmes deduced the height of the murderer by measuring the stride in the dust.",
+        "question": "How did Holmes deduce the murderer's height?",
+        "answer": "by measuring the stride in the dust",
+        "start_position": 42,
+        "end_position": 77
+    },
+    {
+        "context": "The phrase 'Rache' written in blood was initially interpreted as a name but meant revenge.",
+        "question": "What did the word 'Rache' mean?",
+        "answer": "revenge",
+        "start_position": 82,
+        "end_position": 89
+    },
+    {
+        "context": "The footprints around the murder scene indicated the presence of two people.",
+        "question": "What did the footprints around the murder scene indicate?",
+        "answer": "the presence of two people",
+        "start_position": 49,
+        "end_position": 75
+    },
+    {
+        "context": "Lestrade's discovery of a wedding ring led Holmes to believe a woman might be involved.",
+        "question": "What did Lestrade's discovery of a wedding ring suggest to Holmes?",
+        "answer": "a woman might be involved",
+        "start_position": 61,
+        "end_position": 86
+    },
+    {
+        "context": "Jefferson Hope recounted how he tracked his enemies across multiple countries for years.",
+        "question": "What did Jefferson Hope recount about his pursuit?",
+        "answer": "he tracked his enemies across multiple countries for years",
+        "start_position": 29,
+        "end_position": 87
+    },
+ 	{
+        "context": "On the very day that I had come to this conclusion, I was standing at the Criterion Bar, when some one tapped me on the shoulder, and turning round I recognized young Stamford, who had been a dresser under me at Barts.",
+        "question": "Where did Sherlock Holmes meet Stamford?",
+        "answer": "Criterion Bar",
+        "start_position": 74,
+        "end_position": 86
+    },
+    {
+        "context": "There has been a bad business during the night at 3, Lauriston Gardens, off the Brixton Road.",
+        "question": "Where is the body of Enoch Drebber found?",
+        "answer": "3, Lauriston Gardens",
+        "start_position": 50,
+        "end_position": 69
+    },
+    {
+        "context": "Across this bare space there was scrawled in blood-red letters a single word— RACHE.",
+        "question": "What word did the murderer write in blood on the wall?",
+        "answer": "RACHE",
+        "start_position": 78,
+        "end_position": 82
+    },
+    {
+        "context": "There has been murder done, and the murderer was a man.",
+        "question": "What gender does Sherlock Holmes think the murderer is?",
+        "answer": "man",
+        "start_position": 51,
+        "end_position": 53
+    },
+    {
+        "context": "“One other thing, Lestrade,” he added, turning round at the door: “‘Rache,’ is the German for ‘revenge;’ so don’t lose your time looking for Miss Rachel.”",
+        "question": "What does the word on the wall mean?",
+        "answer": "revenge",
+        "start_position": 95,
+        "end_position": 101
+    },
+    {
+        "context": "The more I thought of it the more extraordinary did my companion’s hypothesis, that the man had been poisoned, appear.",
+        "question": "What was the cause of Drebber's death thought to initially be?",
+        "answer": "poison",
+        "start_position": 101,
+        "end_position": 106
+    },
+    {
+        "context": "The Secretary, Mr. Joseph Stangerson, was murdered at Hallidays Private Hotel about six o clock this morning.",
+        "question": "Where was Stangerson murdered?",
+        "answer": "Hallidays Private Hotel",
+        "start_position": 53,
+        "end_position": 76
+    },
+    {
+        "context": "The cause of death was a deep stab in the left side, which must have penetrated the heart.",
+        "question": "What was the cause of Stangerson's death?",
+        "answer": "deep stab",
+        "start_position": 25,
+        "end_position": 33
+    },
+    {
+        "context": "Of the two pills in that box one was of the most deadly poison, and the other was entirely harmless.",
+        "question": "What was strange about the poison pills?",
+        "answer": "one was of the most deadly poison, and the other was entirely harmless",
+        "start_position": 30,
+        "end_position": 98
+    },
+    {
+        "context": "Gentlemen, let me introduce you to Mr. Jefferson Hope, the murderer of Enoch Drebber and of Joseph Stangerson.",
+        "question": "Who are Jefferson Hope's victims?",
+        "answer": "Enoch Drebber and of Joseph Stangerson",
+        "start_position": 71,
+        "end_position": 108
+    },
+    {
+        "context": "If you are unable to come I shall give you fuller details, and would esteem it a great kindness if you would favour me with your opinion. Yours faithfully, “TOBIAS GREGSON.",
+        "question": "Who asks Holmes to assist him in solving a recent case?",
+        "answer": "TOBIAS GREGSON",
+        "start_position": 157,
+        "end_position": 170
+    },
+    {
+        "context": "In the central portion of the great North American Continent there lies an arid and repulsive desert, which for many a long year served as a barrier against the advance of civilisation.",
+        "question": "How does part 2 of the novel start?",
+        "answer": "arid and repulsive desert",
+        "start_position": 75,
+        "end_position": 99
+    },
+    {
+        "context": "“I guess you are the daughter of John Ferrier,” he remarked, “I saw you ride down from his house. When you see him, ask him if he remembers the Jefferson Hopes of St. Louis.",
+        "question": "Who did Lucy meet?",
+        "answer": "Jefferson Hope",
+        "start_position": 82,
+        "end_position": 95
+    },
+    {
+        "context": "Stangerson has a son, and Drebber has a son, and either of them would gladly welcome your daughter to their house. Let her choose between them.",
+        "question": "Who did Brigham Young ask Lucy to marry instead?",
+        "answer": "Stangerson has a son, and Drebber has a son",
+        "start_position": 0,
+        "end_position": 42
+    },
+    {
+        "context": "She shall have a month to choose said Young, rising from his seat. At the end of that time she shall give her answer.",
+        "question": "How long did Brigham Young give Lucy to decide on marriage?",
+        "answer": "a month",
+        "start_position": 15,
+        "end_position": 21
+    },
+    {
+        "context": "It will be time to look out for squalls when we do. We have a clear month before us; at the end of that, I guess we had best shin out of Utah.",
+        "question": "What option did Ferrier give Lucy about marying the two sons?",
+        "answer": "shin out of Utah",
+        "start_position": 125,
+        "end_position": 140
+    },
+    {
+        "context": "We must push for Carson City through the mountains.",
+        "question": "Where did Lucy Ferrier, Jefferson Hope, and John Ferrier escape to?",
+        "answer": "Carson City through the mountains",
+        "start_position": 17,
+        "end_position": 49
+    },
+    {
+        "context": "She was married yesterday to young Drebber. Hold up, man, hold up, you have no life left in you.",
+        "question": "Who was Lucy Ferrier married to?",
+        "answer": "She was married yesterday to young Drebber",
+        "start_position": 0,
+        "end_position": 41
+    },
+    {
+        "context": "There was no mistaking it for anything but a newly-dug grave.",
+        "question": "What did Jefferson Hope find when he returned?",
+        "answer": "newly-dug grave",
+        "start_position": 45,
+        "end_position": 59
+    },
+    {
+        "context": "JOHN FERRIER, FORMERLY OF SALT LAKE CITY, Died August 4th, 1860.",
+        "question": "Who was in the grave Jefferson Hope found?",
+        "answer": "JOHN FERRIER",
+        "start_position": 0,
+        "end_position": 11
+    },
+    {
+        "context": "Lucy had been carried back by their terrible pursuers to fulfil her original destiny, by becoming one of the harem of the Elder’s son.",
+        "question": "What did Jefferson Hope learn about Lucy Ferrier after her father's death?",
+        "answer": "Lucy had been carried back by their terrible pursuers",
+        "start_position": 0,
+        "end_position": 52
+    },
+    {
+        "context": "you have an aortic aneurism!",
+        "question": "What medical condition did Jefferson Hope have?",
+        "answer": "aortic aneurism",
+        "start_position": 12,
+        "end_position": 26
+    },
+    {
+        "context": "On the very night after his capture the aneurism burst, and he was found in the morning stretched upon the floor of the cell, with a placid smile upon his face, as though he had been able in his dying moments to look back upon a useful life, and on work well done.",
+        "question": "How did Jefferso Hope die?",
+        "answer": "he was found in the morning stretched upon the floor of the cell",
+        "start_position": 60,
+        "end_position": 123
+    },
+    {
+        "context": "Drebber himself was drunk half the time, but Stangerson was not to be caught napping.",
+        "question": "What did Jefferson Hope observe about Stangerson and Drebber?",
+        "answer": "Drebber himself was drunk half the time, but Stangerson was not to be caught napping",
+        "start_position": 0,
+        "end_position": 83
+    },
+    {
+        "context": "A spasm of pain contorted his features; he threw his hands out in front of him, staggered, and then, with a hoarse cry, fell heavily upon the floor",
+        "question": "How did Drebber react to the poison?",
+        "answer": "staggered, and then, with a hoarse cry, fell heavily upon the floor",
+        "start_position": 80,
+        "end_position": 146
+    },
+    {
+        "context": "They must have thought that there was some chance of their being followed, for they would never go out alone, and never after nightfall.",
+        "question": "How did Drebber and Stangerson act to avoid being followed?",
+        "answer": "never go out alone, and never after nightfall",
+        "start_position": 90,
+        "end_position": 134
+    },
+    {
+        "context": "It was claimed that same evening, and returned; but in the interval I had taken a moulding of it, and had a duplicate constructed.",
+        "question": "What did Jefferson Hope do with the key?",
+        "answer": "taken a moulding of it",
+        "start_position": 74,
+        "end_position": 94
+    },
+    {
+        "context": "I had always my pill boxes about with me, and the time had now come when I was to use them.",
+        "question": "What tool did carry with him for the murder?",
+        "answer": "pill boxes",
+        "start_position": 16,
+        "end_position": 25
+    },
+    {
+        "context": "I could see old John Ferrier and sweet Lucy looking at me out of the darkness and smiling at me, just as plain as I see you all in this room.",
+        "question": "Who did Jefferson Hope see in the darkness while driving?",
+        "answer": "old John Ferrier and sweet Lucy",
+        "start_position": 12,
+        "end_position": 42
+    },
+
+    {
+        "context": "That’s the whole of my story, gentlemen. You may consider me to be a murderer; but I hold that I am just as much an officer of justice as you are.",
+        "question": "How does Jefferson Hope feel about the murders?",
+        "answer": "I am just as much an officer of justice as you are",
+        "start_position": 95,
+        "end_position": 144
+    },
+    {
+        "context": "I satisfied myself that it was a cab and not a private carriage by the narrow gauge of the wheels",
+        "question": "How did Holmes determine that the vehicle was a cab?",
+        "answer": "narrow gauge of the wheels",
+        "start_position": 71,
+        "end_position": 96
+    },
+    {
+        "context": "Jefferson Hope pressed his lips reverently to her cold forehead, and then, snatching up her hand, he took the wedding-ring from her finger.",
+        "question": "What did Jefferson Hope do when he saw Lucy Ferrier's body?",
+        "answer": "pressed his lips reverently to her cold forehead",
+        "start_position": 15,
+        "end_position": 62
+    },
+    {
+        "context": "It gives a fairly good account of the affair. It does not mention the fact that when the man was raised up, a woman’s wedding ring fell upon the floor",
+        "question": "What fell when Drebber's body was raised?",
+        "answer": "woman’s wedding ring",
+        "start_position": 110,
+        "end_position": 129
+    },
+    {
+        "context": "The two castaways, John Ferrier and the little girl who had shared his fortunes and had been adopted as his daughter, accompanied the Mormons to the end of their great pilgrimage.",
+        "question": "Who accompanied the mormons in their journey?",
+        "answer": "John Ferrier and the little girl",
+        "start_position": 19,
+        "end_position": 50
+    },
+    {
+        "context": "John Ferrier’s heart was sore within him when he thought of the young man’s return, and of the impending loss of his adopted child",
+        "question": "How did John Ferrier feel about Lucy Ferrier's marriage?",
+        "answer": "John Ferrier’s heart was sore",
+        "start_position": 0,
+        "end_position": 28
+    },
+    {
+        "context": "I may never be tried, he answered. You needn’t look startled. It isn’t suicide I am thinking of.",
+        "question": "What did Jefferson Hope say about his potential trial?",
+        "answer": "I may never be tried",
+        "start_position": 0,
+        "end_position": 19
+    },
+    {
+        "context": "I leaned my back against the door and laughed loud and long.",
+        "question": "How did Jefferson Hope react to Drebber's fear?",
+        "answer": "laughed loud and long",
+        "start_position": 38,
+        "end_position": 58
+    },
+    {
+        "context": "I have hunted you from Salt Lake City to St. Petersburg, and you have always escaped me.",
+        "question": "What did Jefferson Hope say to Drebber?",
+        "answer": "I have hunted you from Salt Lake City to St. Petersburg",
+        "start_position": 0,
+        "end_position": 54
+    },
+    {
+        "context": "Lestrade believed the murderer returned to the house for the ring.",
+        "question": "What did Lestrade think the murderer returned for?",
+        "answer": "the ring",
+        "start_position": 57,
+        "end_position": 65
+    },
+    {
+        "context": "The detective described the crime as the result of a long-standing feud.",
+        "question": "What did Holmes describe the crime as the result of?",
+        "answer": "a long-standing feud",
+        "start_position": 51,
+        "end_position": 71
+    },
+    {
+        "context": "Watson described the sitting room at 221B Baker Street as cheerful and well-lit by two broad windows.",
+        "question": "How did Watson describe the sitting room at 221B Baker Street?",
+        "answer": "cheerful and well-lit by two broad windows",
+        "start_position": 58,
+        "end_position": 100
+    },
+    {
+        "context": "Holmes identified the type of ash found at the scene as from a Trichinopoly cigar.",
+        "question": "What type of cigar ash did Holmes identify?",
+        "answer": "Trichinopoly cigar",
+        "start_position": 63,
+        "end_position": 81
+    },
+    {
+        "context": "The phrase 'a scarlet thread of murder running through the skein of life' was how Holmes described the case.",
+        "question": "How did Holmes describe the case?",
+        "answer": "'a scarlet thread of murder running through the skein of life'",
+        "start_position": 11,
+        "end_position": 73
+    },
+    {
+        "context": "When I looked in at the window, I found Drebber all huddled together in a drunken sleep.",
+        "question": "Whad did Jefferson Hope find when he looked through Drebber's window?",
+        "answer": "Drebber all huddled together in a drunken sleep",
+        "start_position": 40,
+        "end_position": 86
+    },
+    {
+        "context": "'Would you murder me?' he stammered.",
+        "question": "What did Drebber ask Jefferson Hope?",
+        "answer": "Would you murder me",
+        "start_position": 1,
+        "end_position": 19
+    },
+    {
+        "context": "The detective described the crime as the result of a long-standing feud.",
+        "question": "What did Holmes describe the crime as the result of?",
+        "answer": "a long-standing feud",
+        "start_position": 51,
+        "end_position": 71
+    },
+    {
+        "context": "Watson described the sitting room at 221B Baker Street as cheerful and well-lit by two broad windows.",
+        "question": "How did Watson describe the sitting room at 221B Baker Street?",
+        "answer": "cheerful and well-lit by two broad windows",
+        "start_position": 58,
+        "end_position": 100
+    },
+    {
+        "context": "Instead of grasping at the chance of safety which that offered him, he sprang from his bed and flew at my throat.",
+        "question": "How did Stangerson react when given the choice of poisoned pills?",
+        "answer": "he sprang from his bed and flew at my throat",
+        "start_position": 68,
+        "end_position": 111
+    },
+    {
+        "context": "In self-defence I stabbed him to the heart",
+        "question": "What did Jefferson Hope do when Stangerson attack him?",
+        "answer": "stabbed him to the heart",
+        "start_position": 18,
+        "end_position": 41
+    },
+    {
+        "context": "Holmes suggested using the victim's ring as bait to lure the suspect.",
+        "question": "What did Holmes suggest using as bait?",
+        "answer": "the victim's ring",
+        "start_position": 23,
+        "end_position": 40
+    },
+{
+        "context": "Watson is a doctor in the military; he served during the Second Afghan War but was wounded by a bullet in the shoulder and then contracted typhoid fever.",
+        "question": "What war did Watson serve in?",
+        "answer": "the Second Afghan War",
+        "start_position": 53,
+        "end_position": 74
+    },
+    {
+        "context": "Watson is a doctor in the military; he served during the Second Afghan War but was wounded by a bullet in the shoulder and then contracted typhoid fever.",
+        "question": "What is Watson in the military?",
+        "answer": "a doctor",
+        "start_position": 10,
+        "end_position": 18
+    },
+    {
+        "context": "Watson is a doctor in the military; he served during the Second Afghan War but was wounded by a bullet in the shoulder and then contracted typhoid fever.",
+        "question": "How is Watson wounded?",
+        "answer": "a bullet in the shoulder",
+        "start_position": 94,
+        "end_position": 118
+    },
+    {
+        "context": "He is not prone to any bouts of depression and does not dabble in any drugs. He describes his flaws as owning a gun, objecting to loud altercations because his nerves are shattered from war, laziness, and keeping ungodly hours.",
+        "question": "What are Watson's flaws?",
+        "answer": "owning a gun, objecting to loud altercations because his nerves are shattered from war, laziness, and keeping ungodly hours",
+        "start_position": 103,
+        "end_position": 226
+    },
+    {
+        "context": "He is intrigued by Holmes and is very laudatory of the latter's skills. Above all, he is a calming, normalizing, stabilizing influence on the manic Holmes.",
+        "question": "How does Watson feel about Holmes?",
+        "answer": "He is intrigued by Holmes",
+        "start_position": 0,
+        "end_position": 25
+    },
+    {
+        "context": "Holmes is generally intolerant of other people's inability to reason from what they observe. He describes his own ability to reason backwards and laments that more people aren't capable of this. He does not have too many friends due to his strange activities and oftentimes abrasive personality.",
+        "question": "Why does Holmes not have many friends?",
+        "answer": "his strange activities and oftentimes abrasive personality.",
+        "start_position": 236,
+        "end_position": 295
+    },
+    {
+        "context": "Watson was pleased to hear that he potential roommate was studious and quiet, and asked Stamford to introduce them. Stamford agreed and the two of them made their way to the hospital. Along the way Stamford spoke more of Holmes;",
+        "question": "How does Stamford describe Holmes?",
+        "answer": "studious and quiet",
+        "start_position": 58,
+        "end_position": 76
+    },
+    {
+        "context": "The latter was surprised at this statement, and prodded Stamford for more information. For Stamford, Holmes was too scientific and could tend toward cold-bloodedness. He did, however, have a passion for definite and exact knowledge and conducted strange experiments. ",
+        "question": "What does Holmes have a passion for?",
+        "answer": "definite and exact knowledge",
+        "start_position": 203,
+        "end_position": 231
+    },
+    {
+        "context": "The two men arrived at the laboratory and entered the room where Holmes was working. As soon as Holmes saw the men entered he jumped up with glee and announced that he had found a re-agent that is precipitated by haemoglobin. Stamford introduced Watson to Holmes, the latter remarking that Watson had clearly been in Afghanistan recently.",
+        "question": "What did Holmes find??",
+        "answer": "a re-agent that is precipitated by haemoglobin",
+        "start_position": 178,
+        "end_position": 224
+    },
+    {
+        "context": "Holmes explained the discovery he had made, which was an infallible test for blood stains. He demonstrated how it worked and why it was better than the old tests that existed. He was sure that several criminals who had walked free would have been jailed if this test had been used. After a few moments Stamford brought Holmes's attention back to the situation at hand, stating that Watson was looking for a roommate. Holmes was pleased and mentioned that he had his eye upon Baker Street.",
+        "question": "What is Watson looking for?",
+        "answer": "a roommate",
+        "start_position": 404,
+        "end_position": 414
+    },
+    {
+        "context": "Holmes explained the discovery he had made, which was an infallible test for blood stains. He demonstrated how it worked and why it was better than the old tests that existed. He was sure that several criminals who had walked free would have been jailed if this test had been used. After a few moments Stamford brought Holmes's attention back to the situation at hand, stating that Watson was looking for a roommate. Holmes was pleased and mentioned that he had his eye upon Baker Street.",
+        "question": "What does Holmes have his eye on?",
+        "answer": "Baker Street",
+        "start_position": 474,
+        "end_position": 486
+    },
+    {
+        "context": "Watson and Holmes discussed their vices and shortcomings with each other; Holmes said that he [got] in the dumps at times, and [didn't] open [his] mouth for days on end and Watson revealed that he was prone to laziness, weak nerves, and ungodly hours for rising. As the conversation was pleasing to both parties, they agreed to meet the following day and visit the available rooms.",
+        "question": "What do Watson and Holmes discuss?",
+        "answer": "their vices and shortcomings",
+        "start_position": 28,
+        "end_position": 56
+    },
+    {
+        "context": "Watson and Holmes discussed their vices and shortcomings with each other; Holmes said that he [got] in the dumps at times, and [didn't] open [his] mouth for days on end and Watson revealed that he was prone to laziness, weak nerves, and ungodly hours for rising. As the conversation was pleasing to both parties, they agreed to meet the following day and visit the available rooms.",
+        "question": "How was the conversation for both parties?",
+        "answer": "pleasing",
+        "start_position": 287,
+        "end_position": 295
+    },
+    {
+        "context": "Watson narrates that he and Holmes were pleased with their new rooms and living arrangement. Holmes was not difficult to live with, as he had regular hours and was often out. He did have occasional bouts of lethargy and immobility, which Watson believed were not related to drugs because of the man's temperance and cleanliness.",
+        "question": "How was Holmes to live with?",
+        "answer": "Holmes was not difficult to live with",
+        "start_position": 93,
+        "end_position": 130
+    },
+    {
+        "context": "Watson narrates that he and Holmes were pleased with their new rooms and living arrangement. Holmes was not difficult to live with, as he had regular hours and was often out. He did have occasional bouts of lethargy and immobility, which Watson believed were not related to drugs because of the man's temperance and cleanliness.",
+        "question": "What does Holmes have occasional bouts of?",
+        "answer": "lethargy and immobility",
+        "start_position": 207,
+        "end_position": 230
+    },
+    {
+        "context": "Watson was incredibly interested in Holmes and his mysterious doings; he had a copious amount of free time while regaining his health as well as a lack of friends in London to occupy his time. Holmes was clearly not studying medicine, Watson concluded, and he was not perusing any other degree. His knowledge seemed exact and desultory, focused on several small things and amazingly lacking in others.",
+        "question": "What is Watson interested in?",
+        "answer": "Holmes and his mysterious doings",
+        "start_position": 36,
+        "end_position": 68
+    },
+    {
+        "context": "Watson was incredibly interested in Holmes and his mysterious doings; he had a copious amount of free time while regaining his health as well as a lack of friends in London to occupy his time. Holmes was clearly not studying medicine, Watson concluded, and he was not perusing any other degree. His knowledge seemed exact and desultory, focused on several small things and amazingly lacking in others.",
+        "question": "What does Watson have copius amounts of?",
+        "answer": "free time",
+        "start_position": 97,
+        "end_position": 106
+    },
+    {
+        "context": "Watson was incredibly interested in Holmes and his mysterious doings; he had a copious amount of free time while regaining his health as well as a lack of friends in London to occupy his time. Holmes was clearly not studying medicine, Watson concluded, and he was not perusing any other degree. His knowledge seemed exact and desultory, focused on several small things and amazingly lacking in others.",
+        "question": "What is Watson regaining?",
+        "answer": "his health",
+        "start_position": 123,
+        "end_position": 133
+    },
+    {
+        "context": "Watson was incredibly interested in Holmes and his mysterious doings; he had a copious amount of free time while regaining his health as well as a lack of friends in London to occupy his time. Holmes was clearly not studying medicine, Watson concluded, and he was not perusing any other degree. His knowledge seemed exact and desultory, focused on several small things and amazingly lacking in others.",
+        "question": "What is Holmes not studying?",
+        "answer": "medicine",
+        "start_position": 225,
+        "end_position": 233
+    },
+    {
+        "context": "Watson was incredibly interested in Holmes and his mysterious doings; he had a copious amount of free time while regaining his health as well as a lack of friends in London to occupy his time. Holmes was clearly not studying medicine, Watson concluded, and he was not perusing any other degree. His knowledge seemed exact and desultory, focused on several small things and amazingly lacking in others.",
+        "question": "How does Watson describe Holmes' knowledge?",
+        "answer": "exact and desultory",
+        "start_position": 316,
+        "end_position": 335
+    },
+    {
+        "context": "In particular, Watson was shocked that Holmes had never heard of the Copernican discovery of Earth's revolutions around the sun; Holmes responded that this was because it is of the highest importance...not to have useless facts elbowing out the useful ones.",
+        "question": "What shocked Watson?",
+        "answer": "Watson was shocked that Holmes had never heard of the Copernican discovery",
+        "start_position": 15,
+        "end_position": 89
+    },
+    {
+        "context": "Watson was shocked by Holmes's deductive powers; his respect for the man grew immensely. Upon request, Holmes explained to Watson how he had ascertained the man at the door was a retired Marine sergeant. He then turned his attention to the letter and excitedly announced that he was wrong about the dearth of crime in London.",
+        "question": "What is Holmes wrong about?",
+        "answer": "the dearth of crime in London",
+        "start_position": 294,
+        "end_position": 323
+    },
+    {
+        "context": "He gave the letter to Watson to read aloud; it seemed that a man was found dead in an empty house in Lauriston Gardens. A lawman saw a light on in the house, went to investigate, and discovered a man lying upon the floor with marks of blood in the room but no bodily wounds.",
+        "question": "What was found dead in an empty house?",
+        "answer": "a man",
+        "start_position": 59,
+        "end_position": 64
+    },
+    {
+        "context": "He gave the letter to Watson to read aloud; it seemed that a man was found dead in an empty house in Lauriston Gardens. A lawman saw a light on in the house, went to investigate, and discovered a man lying upon the floor with marks of blood in the room but no bodily wounds.",
+        "question": "What was the man doing?",
+        "answer": "lying upon the floor",
+        "start_position": 200,
+        "end_position": 220
+    },
+    {
+        "context": "Nothing had been stolen. The man had cards in his pockets with the name Enoch Drebber from Cleveland, Ohio. The detective from Scotland Yard who wrote the letter was named Tobias Gregson.",
+        "question": "What had been stolen?",
+        "answer": "Nothing had been stolen",
+        "start_position": 0,
+        "end_position": 23
+    },
+    {
+        "context": "Nothing had been stolen. The man had cards in his pockets with the name Enoch Drebber from Cleveland, Ohio. The detective from Scotland Yard who wrote the letter was named Tobias Gregson.",
+        "question": "What did the man have in his pockets?",
+        "answer": "cards",
+        "start_position": 37,
+        "end_position": 42
+    },
+    {
+        "context": "Watson and Holmes left Lauriston Gardens around 1pm; Holmes mailed a telegram and the two men drove to the home of John Rance. Along the way Holmes explained to Watson how he had observed the multiple horses' hooves, the height of the murderer, and his age.",
+        "question": "Who left Laurston Gardens?",
+        "answer": "Watson and Holmes",
+        "start_position": 0,
+        "end_position": 17
+    },
+    {
+        "context": "Watson and Holmes left Lauriston Gardens around 1pm; Holmes mailed a telegram and the two men drove to the home of John Rance. Along the way Holmes explained to Watson how he had observed the multiple horses' hooves, the height of the murderer, and his age.",
+        "question": "When did Watson and Holmes leave Lauriston Gardens?",
+        "answer": "around 1pm",
+        "start_position": 41,
+        "end_position": 51
+    },
+    {
+        "context": "He also offered the fact that he knew the writing on the wall was done with the man's forefinger dipped in blood, and the ash from the cigar was clearly a Trichinolopy brand because of the nature of the ash. The florid face was more of a gamble, but Holmes did not tell Watson why he believed that to be the case.",
+        "question": "What did he offer?",
+        "answer": "the fact",
+        "start_position": 16,
+        "end_position": 24
+    },
+    {
+        "context": "Watson summed up his confusion at the mysteriousness of the case- why the men were in an empty house?, what happened to their hansom driver?, what was the motive of the murderer?, why was there a wedding ring?, and what did the word RACHE mean?. ",
+        "question": "What did Watson sum up?",
+        "answer": "his confusion",
+        "start_position": 17,
+        "end_position": 30
+    },
+    {
+        "context": "Holmes approved of Watson's summation, and first answered that the word on the wall was merely a blind to mislead the police. He did not want to add much further, because you know a conjurer gets no credit once he has explained his trick;",
+        "question": "What does Holmes approve of?",
+        "answer": "Watson's summation",
+        "start_position": 19,
+        "end_position": 37
+    },
+    {
+        "context": "Holmes approved of Watson's summation, and first answered that the word on the wall was merely a blind to mislead the police. He did not want to add much further, because you know a conjurer gets no credit once he has explained his trick;",
+        "question": "What is the word on the wall?",
+        "answer": "a blind to mislead the police",
+        "start_position": 95,
+        "end_position": 124
+    },
+    {
+        "context": "Holmes approved of Watson's summation, and first answered that the word on the wall was merely a blind to mislead the police. He did not want to add much further, because you know a conjurer gets no credit once he has explained his trick;",
+        "question": "Did Holmes want to add much further?",
+        "answer": "He did not want to add much further",
+        "start_position": 126,
+        "end_position": 161
+    },
+    {
+        "context": "Watson rejoined that Holmes was responsible for bringing the act of detection as close to an exact science a he had ever seen, and Holmes smiled with pride at the flattering words. The driver stopped at Audley Court where John Rance lived; it was a sordid and unpleasing street.",
+        "question": "What did Holmes do?",
+        "answer": "smiled with pride at the flattering words",
+        "start_position": 138,
+        "end_position": 179
+    },
+    {
+        "context": "Watson rejoined that Holmes was responsible for bringing the act of detection as close to an exact science a he had ever seen, and Holmes smiled with pride at the flattering words. The driver stopped at Audley Court where John Rance lived; it was a sordid and unpleasing street.",
+        "question": "Where did the driver stop?",
+        "answer": "Audley Court",
+        "start_position": 203,
+        "end_position": 215
+    },
+    {
+        "context": "Watson rejoined that Holmes was responsible for bringing the act of detection as close to an exact science a he had ever seen, and Holmes smiled with pride at the flattering words. The driver stopped at Audley Court where John Rance lived; it was a sordid and unpleasing street.",
+        "question": "Where did John Rance live?",
+        "answer": "Audley Court",
+        "start_position": 203,
+        "end_position": 215
+    },
+    {
+        "context": "When Holmes and Watson returned to the house, Watson laid down to take a nap as his mind was tumultuous after the events of the morning. He meditated on the grotesque visage of the dead man and almost thanked the murderer for ridding the world of such a clearly malignant man.",
+        "question": "What did Watson do?",
+        "answer": "laid down to take a nap",
+        "start_position": 53,
+        "end_position": 76
+    },
+    {
+        "context": "When Holmes and Watson returned to the house, Watson laid down to take a nap as his mind was tumultuous after the events of the morning. He meditated on the grotesque visage of the dead man and almost thanked the murderer for ridding the world of such a clearly malignant man.",
+        "question": "Where did Holmes and Watson return to?",
+        "answer": "the house",
+        "start_position": 35,
+        "end_position": 44
+    },
+    {
+        "context": "When Holmes and Watson returned to the house, Watson laid down to take a nap as his mind was tumultuous after the events of the morning. He meditated on the grotesque visage of the dead man and almost thanked the murderer for ridding the world of such a clearly malignant man.",
+        "question": "What did Watson meditate on?",
+        "answer": "the grotesque visage",
+        "start_position": 153,
+        "end_position": 173
+    },
+    {
+        "context": "Watson thought more of the poison which killed Drebber, and remembered that Holmes had sniffed the man's mouth. Holmes's quiet, self-confident manner was comforting, however, and Watson looked forward to hearing about his conjectures after he returned from a concert.",
+        "question": "What did Watson remember?",
+        "answer": "Holmes had sniffed the man's mouth",
+        "start_position": 76,
+        "end_position": 110
+    },
+    {
+        "context": "Watson thought more of the poison which killed Drebber, and remembered that Holmes had sniffed the man's mouth. Holmes's quiet, self-confident manner was comforting, however, and Watson looked forward to hearing about his conjectures after he returned from a concert.",
+        "question": "What did Watson look forward to?",
+        "answer": "hearing about his conjectures",
+        "start_position": 203,
+        "end_position": 232
+    },
+    {
+        "context": "When Holmes came in he expressed his feelings that music was perhaps so moving because the human capacity to produce and appreciate music existed even before speech.",
+        "question": "What did Holmes express?",
+        "answer": "his feelings",
+        "start_position": 33,
+        "end_position": 45
+    },
+    {
+        "context": "Watson confessed he was shaken by the events of the morning, even more so than his experiences in Afghanistan",
+        "question": "What was Watson shaken by?",
+        "answer": "events of the morning",
+        "start_position": 38,
+        "end_position": 59
+    },
+    {
+        "context": "Changing the subject, Holmes told Watson that he had placed an advertisement in the paper for the lost ring (under Watson's name as to not arouse suspicion) and told any claimants to come to the apartments between eight and nine that evening.",
+        "question": "What did Holmes tell Watson?",
+        "answer": "he had placed an advertisement",
+        "start_position": 46,
+        "end_position": 76
+    }
+]
