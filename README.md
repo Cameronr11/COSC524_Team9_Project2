@@ -23,7 +23,8 @@ The text dataset for this study is A Study in Scarlet by Arthur Conan Doyle. We 
 
 ## Contents
 All code for this project is contained within the following notebooks:
- - `RAG.ipynb`: Implements custom Retrieval-Augmented Generation to enhance contextual understanding and handle token limitations.
+ - `RAG_General.ipynb`: Implements custom Retrieval-Augmented Generation to enhance contextual understanding and handle token limitations.
+ - `RAG_Sentence_Chunking.ipynb`: Implements custom Retrieval-Augmented Generation using scenes as chunks. Do reference the report or project 1 for further information.
  - `QA_Generation.ipynb`: Demonstrates the fine-tuning approach for improving BERT's question-answering capabilities.
 
 ## Installation
